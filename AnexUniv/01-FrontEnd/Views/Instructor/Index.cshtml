@@ -1,0 +1,64 @@
+﻿@{
+    ViewBag.Title = "Instructor";
+}
+<h1 class="page-header">
+    @ViewBag.Title
+</h1>
+
+<div class="well income-report text-center">
+    <div class="row">
+        <div class="col-sm-3 income">
+            <h5>Total de ingresos</h5>
+            <span class="description">$ 1,200.00</span>
+        </div>
+        <div class="col-sm-3 income">
+            <h5>Ingreso del mes</h5>
+            <span class="description">$ 1,200.00</span>
+        </div>
+        <div class="col-sm-3 income">
+            <h5>Calificación media</h5>
+            <span class="description">8.88/10</span>
+        </div>
+        <div class="col-sm-3 income last">
+            <h5>Total de estudiantes</h5>
+            <span class="description">10,323</span>
+        </div>
+    </div>
+</div>
+
+<div class="list-group list-group-courses padding-top">
+    @for (var i = 0; i < 4; i++)
+    {
+        <div class="list-group-item income-report">
+            <div class="row">
+                <div class="col-sm-2">
+                    <a href="~/instructor/course/1">
+                        <img class="img-responsive" src="~/Assets/images/courses/technology-course.jpg" alt="image course" />
+                    </a>
+                </div>
+                <div class="col-sm-4">
+                    <h4><a href="~/instructor/course/1">Curso de tecnología y desarrollo web</a></h4>
+                    <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+                </div>
+                <div class="col-sm-2 text-center">
+                    <div class="income">
+                        <h5>Total ingreso</h5>
+                        <span class="description">$ 200.00</span>
+                    </div>
+                </div>
+                <div class="col-sm-2 text-center">
+                    <div class="income">
+                        <h5>Ingreso del mes</h5>
+                        <span class="description">$ 10.00</span>
+                    </div>
+                </div>
+                <div class="col-sm-2 text-center">
+                    <div class="income last">
+                        <h5>Total de estudiantes</h5>
+                        <span class="description">20</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>

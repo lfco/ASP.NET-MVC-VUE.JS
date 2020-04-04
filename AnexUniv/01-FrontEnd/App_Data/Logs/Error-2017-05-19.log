@@ -1,0 +1,20 @@
+[ERROR] 19:20:44.414:
+- Service.StudentService.GetAll (Line #69)
+- Referencia a objeto no establecida como instancia de un objeto.
+ 
+[ERROR] 19:20:47.387:
+- Service.StudentService.GetAll (Line #69)
+- Referencia a objeto no establecida como instancia de un objeto.
+ 
+[ERROR] 19:20:54.403:
+- Service.StudentService.GetAll (Line #69)
+- Referencia a objeto no establecida como instancia de un objeto.
+ 
+[ERROR] 19:21:25.012:
+- Service.StudentService.GetAll (Line #69)
+- Referencia a objeto no establecida como instancia de un objeto.
+ 
+[ERROR] 19:22:03.635:
+- Service.StudentService.GetAll (Line #0)
+- Referencia a objeto no establecida como instancia de un objeto.
+ 

@@ -1,0 +1,18 @@
+﻿<h3>Temario</h3>
+<ul class="list-group">
+    @for (var y = 1; y < 4; y++)
+    {
+        <li class="list-group-item @(y == 1 ? "active" : "")">
+            <div class="row">
+                <div class="col-xs-9 col-sm-10">
+                    <b>#0@(y)</b> <a href="#">Lección #@y</a>
+                </div>
+                <div class="col-xs-3 col-sm-2 text-right">
+                    <span class="badge">
+                        <i class="fa fa-check"></i>
+                    </span>
+                </div>
+            </div>
+        </li>
+    }
+</ul>

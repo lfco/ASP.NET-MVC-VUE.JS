@@ -1,0 +1,26 @@
+﻿@{ 
+    ViewBag.Title = "Curso de Javascript y CSS 3";
+}
+<h1 class="page-header">@ViewBag.Title <small>por Eduardo Rodríguez</small></h1>
+
+<div class="row learning">
+    <div class="col-sm-8">
+        @Html.Partial("Partials/_Page")
+    </div>
+    <div class="col-sm-4">
+        @Html.Partial("Partials/_Actions")
+        @Html.Partial("Partials/_Lessons")
+    </div>
+</div>
+
+@section scripts {
+    <script>
+        $(document).ready(function () {
+            $(".learning .video-target").html(App.helpers.video.getYoutubeVideo({
+                id: 'gBeqy1W1rRk',
+                autoplay: 0,
+                controls: 1
+            }));
+        })
+    </script>
+}

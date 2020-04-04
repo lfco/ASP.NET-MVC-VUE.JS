@@ -1,0 +1,44 @@
+﻿@{ 
+    ViewBag.Title = "Mis cursos";
+}
+<h1 class="page-header">
+    @ViewBag.Title
+</h1>
+
+<div class="list-group list-group-courses">
+    @for (var i = 0; i < 4; i++)
+    {
+        <div class="list-group-item">
+            <div class="progress" data-toggle="tooltip" data-placement="top" title="Completado al @(20 * i)%">
+                <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="@(20 * i)" aria-valuemin="0" aria-valuemax="100" style="width: @(20 * i)%">
+                    @(20 * i)% Completado
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-2">
+                    <a href="~/learn/0/1">
+                        <img class="img-responsive" src="~/Assets/images/courses/technology-course.jpg" alt="image course" />
+                    </a>
+                </div>
+                <div class="col-sm-8 ">
+                    <h4>
+                        <a href="~/learn/0/1">
+                            Curso de tecnología y desarrollo web
+                        </a>
+                    </h4>
+                    <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+                </div>
+                <div class="col-sm-2">
+                    <a href="~/learn/0/1" class="btn btn-primary btn-block">
+                        <i class="fa fa-right"></i> Ingresar
+                    </a>
+                    <button type="button" class="btn btn-default btn-block" data-toggle="modal" data-target="#ratingModal">
+                        <i class="fa fa-star"></i> Valorar
+                    </button>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+@Html.Partial("_Review")

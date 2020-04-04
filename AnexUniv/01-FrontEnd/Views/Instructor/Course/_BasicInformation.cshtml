@@ -1,0 +1,37 @@
+﻿@using (Html.BeginForm("Save", "Instructor", FormMethod.Post))
+{
+    <div class="form-group">
+        <label>Categoría <span class="required">*</span></label>
+        <select class="form-control">
+            <option value="1">Negocios</option>
+            <option value="2">Desarrollo y tecnología</option>
+            <option value="3">Marketing</option>
+            <option value="4">Diseño</option>
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label>Nombre <span class="text-danger">*</span></label>
+        <input type="text" name="Name" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label>Descripción <span class="required">*</span></label>
+        <textarea name="Description" class="form-control"></textarea>
+    </div>
+
+    <div class="form-group">
+        <label>Precio <span class="text-danger">*</span></label>
+        <div class="input-group">
+            <input type="text" name="Price" class="form-control" />
+            <span class="input-group-addon"><b>Ingreso (70%)</b>: $ 0.00</span>
+        </div>
+        <span class="help-block">Un curso equivalente a cero es un curso gratuito para los estudiantes. La comisión de venta es de un @(Parameters.SalesCommission)%.</span>
+    </div>
+
+    <div class="text-right">
+        <button class="btn btn-default">
+            Guardar
+        </button>
+    </div>
+}

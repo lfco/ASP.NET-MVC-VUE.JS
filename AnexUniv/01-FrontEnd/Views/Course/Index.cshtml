@@ -1,0 +1,16 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+<div class="course-promotion">
+    <div class="row">
+        <div class="col-sm-8">
+            <header>
+                @Html.Partial("Promotion/_Header")
+            </header>
+            @Html.Partial("Promotion/_Lessons")
+            @Html.Partial("Promotion/_Comments")
+        </div>
+        @Html.Partial("Promotion/_Side")
+    </div>
+</div>

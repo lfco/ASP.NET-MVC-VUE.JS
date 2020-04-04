@@ -1,0 +1,77 @@
+﻿@{
+    ViewBag.Title = "Categorías";
+}
+<h1 class="page-header">
+    <button type="button" class="btn btn-default pull-right btn-sm" data-toggle="modal" data-target="#category-edit">
+        <i data-toggle="tooltip" data-placement="top" title="Nueva categoría" class="fa fa-plus"></i>
+    </button>
+    @ViewBag.Title
+</h1>
+
+@Html.Partial("Partials/_Menu", Enums.PanelMenu.Categories)
+
+<table class="table table-striped table-bordered table-hover">
+    <thead>
+        <tr>
+            <th style="width:40px;">Ícono</th>
+            <th>Nombre</th>
+            <th class="text-right" style="width:100px;">Cursos</th>
+            <th class="text-right" style="width:100px;">Alumnos</th>
+            <th style="width:100px;"></th>
+        </tr>
+    </thead>
+    <tbody>
+        @for (var i = 1; i < 20; i++)
+        {
+            <tr>
+                <td>
+                    <span class="badge">
+                        <i class="fa fa-code"></i>
+                    </span>
+                </td>
+                <td>Curso @i</td>
+                <td class="text-right">@(i * 2)</td>
+                <td class="text-right">@(i * 10)</td>
+                <td class="text-center">
+                    <div class="btn-group" role="group">
+                        <button type="button" class="btn btn-default btn-sm">
+                            <i title="Eliminar" data-toggle="tooltip" data-placement="top" class="fa fa-trash"></i>
+                        </button>
+                        <button type="button" class="btn btn-default btn-sm" data-toggle="modal" data-target="#category-edit">
+                            <i title="Editar" data-toggle="tooltip" data-placement="top" class="fa fa-edit"></i>
+                        </button>
+                    </div>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<!-- Modal -->
+<div class="modal fade" id="category-edit" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="myModalLabel">Categoría</h4>
+            </div>
+            <div class="modal-body">
+                <div class="form-group">
+                    <label>Ícono</label>
+                    <div class="input-group">
+                        <input type="text" class="form-control" name="Icon">
+                        <span class="input-group-addon"><icon name="code"></icon></span>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label>Nombre</label>
+                    <input type="text" class="form-control" name="Name">
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Cancelar</button>
+                <button type="submit" class="btn btn-primary">Guardar</button>
+            </div>
+        </div>
+    </div>
+</div>
