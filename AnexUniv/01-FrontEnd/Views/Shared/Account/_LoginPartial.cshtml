@@ -1,5 +1,7 @@
 ﻿@if (Request.IsAuthenticated)
 {
+    var user = CurrentUserHelper.Get;
+
     using (Html.BeginForm("LogOff", "Account", FormMethod.Post, new { id = "logoutForm", @class = "navbar-right" }))
     {
         @Html.AntiForgeryToken()
@@ -13,11 +15,14 @@
                     <i class="fa fa-university"></i> Instructor <span class="caret"></span>
                 </a>
                 <ul class="dropdown-menu">
+                    @if (user.IsTeacher())
+                    {
                     <li>
                         <a href="@Url.Action("Index", "instructor")">
                             Panel de instructor
                         </a>
                     </li>
+                    }
                     <li>
                         <a href="@Url.Action("CreateCourse", "Instructor")">
                             Crear un curso
@@ -30,14 +35,17 @@
                     <i class="fa fa-user"></i> Mi cuenta <span class="badge">$ 200</span> <span class="caret"></span>
                 </a>
                 <ul class="dropdown-menu">
+                    @if (user.IsAdmin())
+                    {
                     <li>
                         <a href="@Url.Action("index", "panel")">
                             Panel de adminstración
                         </a>
                     </li>
+                    }
                     <li class="divider"></li>
                     <li>
-                        <a href="#">
+                        <a href="@Url.Action("Get", "Account")">
                             Actualizar mis datos
                         </a>
                     </li>

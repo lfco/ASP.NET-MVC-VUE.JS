@@ -41,6 +41,12 @@ namespace FrontEnd.App_Start
                 {
                     p.SetValue(typeof(Parameters), setting.ToLower().Split(',').ToList());
                 }
+
+                if (p.PropertyType.Name.ToLower().Equals("decimal"))
+                {
+                    p.SetValue(typeof(Parameters), Convert.ToDecimal(setting));
+                }
+
             }
         }
     }

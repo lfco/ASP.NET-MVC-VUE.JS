@@ -27,6 +27,7 @@
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
     <TypeScriptToolsVersion>1.8</TypeScriptToolsVersion>
+    <Use64BitIISExpress />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -187,6 +188,7 @@
     <Compile Include="Startup.cs" />
     <Compile Include="ViewModels\PanelMenuViewModel.cs" />
     <Compile Include="ViewModels\TestViewModel.cs" />
+    <Compile Include="ViewModels\UserViewModel.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Assets\bower_components\bootstrap\dist\css\bootstrap-theme.css" />
@@ -668,6 +670,7 @@
     <Content Include="Views\Panel\Categories.cshtml" />
     <Content Include="Views\Test\Index.cshtml" />
     <Content Include="Views\Studying\_Review.cshtml" />
+    <Content Include="Views\Account\Get.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\02-Service\Auth.Service\Auth.Service.csproj">

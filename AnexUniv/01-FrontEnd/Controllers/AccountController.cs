@@ -13,12 +13,16 @@ using Model.Auth;
 using Auth.Service;
 using Newtonsoft.Json;
 using Common;
+using Service;
+using FrontEnd.App_Start;
+using System.Collections.Generic;
 
 namespace FrontEnd.Controllers
 {
     [Authorize]
     public class AccountController : Controller
     {
+        private readonly IUserService _userService = DependecyFactory.GetInstance<IUserService>();
         private ApplicationSignInManager _signInManager;
         private ApplicationUserManager _userManager;
 
@@ -77,32 +81,36 @@ namespace FrontEnd.Controllers
                 return View(model);
             }
 
-            // This doesn't count login failures towards account lockout
-            // To enable password failures to trigger account lockout, change to shouldLockout: true
-            var result = await SignInManager.PasswordSignInAsync(model.Email, model.Password, model.RememberMe, shouldLockout: false);
-            switch (result)
+            var currentUser = UserManager.FindByEmail(model.Email);
+
+            if (currentUser == null)
             {
-                case SignInStatus.Success:
-                    var currentUser = UserManager.FindByEmail(model.Email);
-
-                    var jUser = JsonConvert.SerializeObject(new CurrentUser {
-                        UserId = currentUser.Id,
-                        Name = currentUser.Email,
-                        UserName = currentUser.Email,
-                    });
-
-                    await UserManager.AddClaimAsync(currentUser.Id, new Claim(ClaimTypes.UserData, jUser));
-
-                    return RedirectToLocal(returnUrl);
-                case SignInStatus.LockedOut:
-                    return View("Lockout");
-                case SignInStatus.RequiresVerification:
-                    return RedirectToAction("SendCode", new { ReturnUrl = returnUrl, RememberMe = model.RememberMe });
-                case SignInStatus.Failure:
-                default:
-                    ModelState.AddModelError("", "Invalid login attempt.");
-                    return View(model);
+                ModelState.AddModelError("", "Invalid login attempt.");
+                return View(model);
             }
+
+            if (!UserManager.CheckPassword(currentUser, model.Password))
+            {
+                ModelState.AddModelError("", "Invalid login attempt.");
+                return View(model);
+            }
+
+            var identity = await UserManager.CreateIdentityAsync(currentUser, DefaultAuthenticationTypes.ApplicationCookie);
+
+            var roles = await UserManager.GetRolesAsync(currentUser.Id);
+
+            var jUser = JsonConvert.SerializeObject(new CurrentUser
+            {
+                UserId = currentUser.Id,
+                Name = currentUser.Email,
+                UserName = currentUser.Email,
+                Roles = roles.Select(x => x.Name).ToList()
+            });
+
+            identity.AddClaim(new Claim(ClaimTypes.UserData, jUser));
+            AuthenticationManager.SignIn(new AuthenticationProperties() { IsPersistent = true }, identity);
+
+            return RedirectToLocal(returnUrl);
         }
 
         //
@@ -116,6 +124,41 @@ namespace FrontEnd.Controllers
                 return View("Error");
             }
             return View(new VerifyCodeViewModel { Provider = provider, ReturnUrl = returnUrl, RememberMe = rememberMe });
+        }
+
+        public async Task<ActionResult> Get()
+        {
+            var userId = CurrentUserHelper.Get.UserId;
+            var model = await UserManager.FindByIdAsync(userId);
+
+            return View(new UserBasicInformationViewModel
+            {
+                Id = model.Id,
+                Name = model.Name,
+                LastName = model.LastName
+            });
+        }
+
+        [HttpPost]
+        public JsonResult Update (UserBasicInformationViewModel model)
+        {
+            var rh = new ResponseHelper();
+
+            if (ModelState.IsValid)
+            {
+                rh = _userService.Update(new ApplicationUser
+                {
+                    Id = model.Id,
+                    Name = model.Name,
+                    LastName = model.LastName
+                }); ;
+            }
+            else
+            {
+                rh.SetValidations(ModelState.GetErrors());
+            }
+
+            return Json(rh);
         }
 
         //
@@ -165,8 +208,17 @@ namespace FrontEnd.Controllers
         {
             if (ModelState.IsValid)
             {
-                var user = new ApplicationUser { UserName = model.Email, Email = model.Email };
-                var result = await UserManager.CreateAsync(user, model.Password);
+                var user = new ApplicationUser { 
+                    Name = model.Name,
+                    LastName = model.LastName,
+                    UserName = model.Email, 
+                    Email = model.Email,
+                    Credit = Parameters.NewUserCredits
+                };
+                
+                
+                var result = await UserManager.CreateWithDefaultRole(user, model.Password);
+                
                 if (result.Succeeded)
                 {
                     //await SignInManager.SignInAsync(user, isPersistent:false, rememberBrowser:false);
