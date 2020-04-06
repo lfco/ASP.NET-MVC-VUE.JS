@@ -76,6 +76,10 @@
     <Compile Include="Migrations\202004040206182_Sprint-V2.0.Designer.cs">
       <DependentUpon>202004040206182_Sprint-V2.0.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202004060319151_sprint-v3.0.cs" />
+    <Compile Include="Migrations\202004060319151_sprint-v3.0.Designer.cs">
+      <DependentUpon>202004060319151_sprint-v3.0.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -104,6 +108,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202004040206182_Sprint-V2.0.resx">
       <DependentUpon>202004040206182_Sprint-V2.0.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202004060319151_sprint-v3.0.resx">
+      <DependentUpon>202004060319151_sprint-v3.0.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

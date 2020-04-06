@@ -12,11 +12,7 @@
         <div class="col-sm-12">
           <welcome :project="'test'" :link="'http://anexsoft.com'"></welcome>
           <ul class="list-group">
-            <li class="list-group-item">
-              <price :value="100.28"></price>,
-              <price :value="24"></price>,
-              <price :value="4548.2"></price>
-            </li>
+            <category></category>
             <li class="list-group-item">
               <rating :value="10"></rating>
             </li>
@@ -46,6 +42,7 @@
     </div>
     <script src="./dist/global.components.js"></script>
     <script src="./dist/welcome.components.js"></script>
+    <script src="./dist/category.components.js"></script>
     <script>
       window.addEventListener('load', function() {
         window.$Vm = new Vue({

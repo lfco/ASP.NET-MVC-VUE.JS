@@ -419,6 +419,7 @@
     <Content Include="Assets\js\enums.js" />
     <Content Include="Assets\js\jquery.anexgrid.min.js" />
     <Content Include="Assets\vue_components\bin\app.bundle.js" />
+    <Content Include="Assets\vue_components\dist\category.components.js" />
     <Content Include="Assets\vue_components\dist\global.components.js" />
     <Content Include="Assets\vue_components\dist\welcome.components.js" />
     <Content Include="Assets\vue_components\index.html" />

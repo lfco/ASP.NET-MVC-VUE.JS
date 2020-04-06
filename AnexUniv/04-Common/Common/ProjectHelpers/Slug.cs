@@ -5,14 +5,14 @@
         public static string Course(int id, string slug)
         {
             return string.Format(
-                "course/{0}/{1}", id, slug
+                "course/{0}/{1}", id, slug.ToLower()
             );
         }
 
         public static string Category(int id, string slug)
         {
             return string.Format(
-                "category/{0}/{1}", id, slug
+                "category/{0}/{1}", id, slug.ToLower()
             );
         }
     }
