@@ -23,6 +23,21 @@ namespace FrontEnd.Controllers
             return View();
         }
 
+        public JsonResult GetCategory(int id)
+        {
+            return Json(
+                _categoryService.Get(id)
+            );
+        }
+
+        [HttpPost]
+        public JsonResult GetCategories(AnexGRID grid)
+        {
+            return Json(
+                _categoryService.GetAll(grid)
+            );
+        }
+
         [HttpPost]
         public JsonResult Category(int id = 0)
         {
@@ -49,6 +64,14 @@ namespace FrontEnd.Controllers
             }
 
             return Json(rh);
+        }
+
+        [HttpPost]
+        public JsonResult DeleteCategory(int id)
+        {
+            return Json(
+              _categoryService.Delete(id)
+            );
         }
 
         public ActionResult Courses()

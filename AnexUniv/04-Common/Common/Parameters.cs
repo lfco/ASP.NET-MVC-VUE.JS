@@ -11,5 +11,9 @@
         public static int SalesCommission { get; set; }
         public static decimal NewUserCredits { get; set; }
         #endregion
+
+        #region Menu Category
+        public static string CategoryList = "[]";
+        #endregion
     }
 }

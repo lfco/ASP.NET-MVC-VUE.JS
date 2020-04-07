@@ -12,7 +12,14 @@
         <div class="col-sm-12">
           <welcome :project="'test'" :link="'http://anexsoft.com'"></welcome>
           <ul class="list-group">
-            <category></category>
+            <li class="list-group-item">
+              <category></category>
+            </li>
+            <li class="list-group-item">
+              <price :value="100.28"></price>,
+              <price :value="24"></price>,
+              <price :value="4548.2"></price>
+            </li>
             <li class="list-group-item">
               <rating :value="10"></rating>
             </li>

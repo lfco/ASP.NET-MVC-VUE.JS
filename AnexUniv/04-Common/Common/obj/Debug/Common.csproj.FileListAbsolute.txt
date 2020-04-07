@@ -37,7 +37,6 @@ C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\04-Common\Common\bin\Debug\LightInj
 C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\04-Common\Common\bin\Debug\LightInject.xml
 C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\04-Common\Common\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\04-Common\Common\bin\Debug\Newtonsoft.Json.xml
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\04-Common\Common\obj\Debug\Common.csprojAssemblyReference.cache
 C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\04-Common\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
 C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\04-Common\Common\obj\Debug\Common.csproj.CopyComplete
 C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\04-Common\Common\obj\Debug\Common.dll

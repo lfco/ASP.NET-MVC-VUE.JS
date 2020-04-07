@@ -7,12 +7,12 @@
                 <span class="icon-bar"></span>
             </button>
             <a class="navbar-brand" href="@Url.Action("Index", "Home")">
-                @Parameters.ProjectName <i class="fa fa-angle-up"></i> 
+                @Parameters.ProjectName <i class="fa fa-angle-up"></i>
             </a>
         </div>
         <div class="navbar-collapse collapse">
-            <ul class="nav navbar-nav">
-                <li>
+            <menucategory :data="@Parameters.CategoryList"></menucategory>
+            @*<li>
                     <a href="~/category/1/negocios">
                         <i class="fa fa-briefcase"></i> Negocios
                     </a>
@@ -31,8 +31,7 @@
                     <a href="~/category/1/design">
                         <i class="fa fa-pencil"></i> Diseño
                     </a>
-                </li>
-            </ul>
+                </li>*@
             @Html.Partial("Account/_LoginPartial")
         </div>
     </div>

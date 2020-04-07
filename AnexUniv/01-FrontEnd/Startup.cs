@@ -13,6 +13,7 @@ namespace FrontEnd
 
             ParamaterConfig.Initialize();
             EnumConfig.Start();
+            MenuConfig.Initialize();
         }
     }
 }

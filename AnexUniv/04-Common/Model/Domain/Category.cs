@@ -20,5 +20,7 @@ namespace Model.Domain
         [Required]
         public string Icon { get; set; }
         public bool Deleted { get; set; }
+
+        public ICollection<Course> Courses { get; set; }
     }
 }
