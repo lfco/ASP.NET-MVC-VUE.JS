@@ -1,12 +1,19 @@
 ﻿using Common;
+using FrontEnd.App_Start;
+using FrontEnd.ViewModels;
+using Model.Domain;
+using Service;
 using System.Web.Mvc;
 
 namespace FrontEnd.Controllers
 {
-    [Authorize(Roles = RoleNames.Teacher)]
     public class InstructorController : Controller
     {
+        private ICourseService _courseService = DependecyFactory.GetInstance<ICourseService>();
+        private ICategoryService _categoryService = DependecyFactory.GetInstance<ICategoryService>();
+
         // GET: Course
+        [Authorize(Roles = RoleNames.Teacher)]
         public ActionResult Index()
         {
             return View();
@@ -14,7 +21,33 @@ namespace FrontEnd.Controllers
 
         public ActionResult CreateCourse()
         {
-            return View();
+            var model = new CourseBasicInformationViewModel();
+            model.Categories = _categoryService.GetAll();
+            model.Course = new Course();
+
+            return View(model);
+        }
+
+        [HttpPost]
+        public JsonResult SaveCourse(Course model)
+        {
+            var rh = new ResponseHelper();
+
+            if (!ModelState.IsValid)
+            {
+                var validations = ModelState.GetErrors();
+                rh.SetValidations(validations);
+            }
+            else
+            {
+                rh = _courseService.InsertOrUpdateBasicInformation(model);
+                if (rh.Response)
+                {
+                    rh.Href = "Instructor";
+                }
+            }
+
+            return Json(rh); 
         }
 
         public ActionResult Course(int id)

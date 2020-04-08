@@ -20,6 +20,7 @@ namespace Service
     {
         ResponseHelper InsertOrUpdate(Category model);
         AnexGRIDResponde GetAll(AnexGRID grid);
+        IEnumerable<Category> GetAll();
         Category Get(int id);
         ResponseHelper Delete(int id);
         string GetForMenu();
@@ -238,6 +239,26 @@ namespace Service
             }
             catch (Exception e)
             {
+                logger.Error(e.Message);
+            }
+
+            return result;
+        }
+
+        public IEnumerable<Category> GetAll()
+        {
+            var result = new List<Category>();
+
+            try
+            {
+                using (var ctx = _dbContextScopeFactory.CreateReadOnly())
+                {
+                    result = _categoryRepo.GetAll().OrderBy(x => x.Name).ToList();
+                }
+            }
+            catch (Exception e)
+            {
+
                 logger.Error(e.Message);
             }
 
