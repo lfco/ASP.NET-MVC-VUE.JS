@@ -68,6 +68,8 @@ namespace Service
 
                         model.UserAuthorId = CurrentUserHelper.Get.UserId;
                         model.Status = Enums.Status.Pending;
+                        model.Image1 = "assets/images/courses/no-image.jpg";
+                        model.Image2 = model.Image1;
 
                         var role = _roleRepo.SingleOrDefault(x => 
                         x.Name == RoleNames.Teacher);

@@ -24,6 +24,7 @@ namespace Service.Config
             container.Register<IUserService, UserService>();
             container.Register<ICategoryService, CategoryService>();
             container.Register<ICourseService, CourseService>();
+            container.Register<IInstructorService, InstructorService>();
         }
     }
 }

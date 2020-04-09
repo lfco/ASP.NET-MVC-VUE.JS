@@ -1,0 +1,4 @@
+[ERROR] 18:49:31.026:
+- Service.CategoryService.GetForMenu (Line #182)
+- The model backing the 'ApplicationDbContext' context has changed since the database was created. Consider using Code First Migrations to update the database (http://go.microsoft.com/fwlink/?LinkId=238269).
+ 

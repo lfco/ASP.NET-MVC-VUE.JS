@@ -1,5 +1,6 @@
 ﻿using Common;
 using Common.CustomFilters;
+using Model.Helper;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
@@ -9,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace Model.Domain
 {
-    public class Income: AudityEntity, ISoftDeleted
+    public class Income: AuditEntity, ISoftDeleted
     {
         public int Id { get; set; }
         public Enums.EntityType EntityType { get; set; }
@@ -17,7 +18,7 @@ namespace Model.Domain
         [Required]
         public decimal Total { get; set; }
         [Required]
-        public string EntityId { get; set; }
+        public int EntityId { get; set; }
         public bool Deleted { get; set; }
     }
 }

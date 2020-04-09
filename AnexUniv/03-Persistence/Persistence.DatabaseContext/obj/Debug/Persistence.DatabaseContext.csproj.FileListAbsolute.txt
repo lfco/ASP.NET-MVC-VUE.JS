@@ -74,3 +74,4 @@ C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\03-Persistence\Persistence.Database
 C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.dll
 C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.pdb
 C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.sprintv30.resources
+C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.Correcion.resources

@@ -64,10 +64,11 @@
     <Compile Include="Auth\ApplicationRole.cs" />
     <Compile Include="Auth\ApplicationUser.cs" />
     <Compile Include="Auth\ApplicationUserRole.cs" />
+    <Compile Include="Custom\InstructorWidget.cs" />
+    <Compile Include="Custom\InstructorCourseForGridView.cs" />
     <Compile Include="Custom\CourseForGridView.cs" />
     <Compile Include="Custom\UserForGridView.cs" />
     <Compile Include="Custom\CategoryForGridView.cs" />
-    <Compile Include="Domain\AudityEntity.cs" />
     <Compile Include="Domain\Category.cs" />
     <Compile Include="Domain\Course.cs" />
     <Compile Include="Domain\CourseLessonLernedsPerStudent.cs" />

@@ -1,5 +1,6 @@
 ﻿using Common;
 using Common.CustomFilters;
+using Model.Helper;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
@@ -9,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace Model.Domain
 {
-    public class LessonPerCourse: AudityEntity, ISoftDeleted
+    public class LessonPerCourse: AuditEntity, ISoftDeleted
     {
         public int Id { get; set; }
         [Required]
