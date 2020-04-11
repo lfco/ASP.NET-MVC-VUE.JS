@@ -68,21 +68,17 @@
     <Compile Include="Migrations\201706280313338_Initialize.Designer.cs">
       <DependentUpon>201706280313338_Initialize.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\202004040154276_Sprint-V1.0.cs" />
-    <Compile Include="Migrations\202004040154276_Sprint-V1.0.Designer.cs">
-      <DependentUpon>202004040154276_Sprint-V1.0.cs</DependentUpon>
+    <Compile Include="Migrations\201706301500216_Sprint-V1.0.cs" />
+    <Compile Include="Migrations\201706301500216_Sprint-V1.0.Designer.cs">
+      <DependentUpon>201706301500216_Sprint-V1.0.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\202004040206182_Sprint-V2.0.cs" />
-    <Compile Include="Migrations\202004040206182_Sprint-V2.0.Designer.cs">
-      <DependentUpon>202004040206182_Sprint-V2.0.cs</DependentUpon>
+    <Compile Include="Migrations\201706301637195_Sprint-V2.0.cs" />
+    <Compile Include="Migrations\201706301637195_Sprint-V2.0.Designer.cs">
+      <DependentUpon>201706301637195_Sprint-V2.0.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\202004060319151_sprint-v3.0.cs" />
-    <Compile Include="Migrations\202004060319151_sprint-v3.0.Designer.cs">
-      <DependentUpon>202004060319151_sprint-v3.0.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\202004090050238_Correcion.cs" />
-    <Compile Include="Migrations\202004090050238_Correcion.Designer.cs">
-      <DependentUpon>202004090050238_Correcion.cs</DependentUpon>
+    <Compile Include="Migrations\201707010826092_Sprint-V3.0.cs" />
+    <Compile Include="Migrations\201707010826092_Sprint-V3.0.Designer.cs">
+      <DependentUpon>201707010826092_Sprint-V3.0.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -107,17 +103,14 @@
     <EmbeddedResource Include="Migrations\201706280313338_Initialize.resx">
       <DependentUpon>201706280313338_Initialize.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202004040154276_Sprint-V1.0.resx">
-      <DependentUpon>202004040154276_Sprint-V1.0.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201706301500216_Sprint-V1.0.resx">
+      <DependentUpon>201706301500216_Sprint-V1.0.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202004040206182_Sprint-V2.0.resx">
-      <DependentUpon>202004040206182_Sprint-V2.0.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201706301637195_Sprint-V2.0.resx">
+      <DependentUpon>201706301637195_Sprint-V2.0.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202004060319151_sprint-v3.0.resx">
-      <DependentUpon>202004060319151_sprint-v3.0.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202004090050238_Correcion.resx">
-      <DependentUpon>202004090050238_Correcion.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201707010826092_Sprint-V3.0.resx">
+      <DependentUpon>201707010826092_Sprint-V3.0.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

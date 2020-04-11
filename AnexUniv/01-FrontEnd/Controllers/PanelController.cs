@@ -23,6 +23,7 @@ namespace FrontEnd.Controllers
             return View();
         }
 
+        [HttpPost]
         public JsonResult GetCategory(int id)
         {
             return Json(
@@ -39,9 +40,11 @@ namespace FrontEnd.Controllers
         }
 
         [HttpPost]
-        public JsonResult Category(int id = 0)
+        public JsonResult DeleteCategory(int id)
         {
-            return Json(null);
+            return Json(
+                _categoryService.Delete(id)
+            );
         }
 
         [HttpPost]
@@ -54,7 +57,7 @@ namespace FrontEnd.Controllers
                 var validations = ModelState.GetErrors();
                 rh.SetValidations(validations);
             }
-            else 
+            else
             {
                 rh = _categoryService.InsertOrUpdate(model);
                 if (rh.Response)
@@ -64,14 +67,6 @@ namespace FrontEnd.Controllers
             }
 
             return Json(rh);
-        }
-
-        [HttpPost]
-        public JsonResult DeleteCategory(int id)
-        {
-            return Json(
-              _categoryService.Delete(id)
-            );
         }
 
         public ActionResult Courses()

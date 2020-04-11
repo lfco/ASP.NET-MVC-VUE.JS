@@ -1,5 +1,4 @@
 ﻿@model List<InstructorCourseForGridView>
-
 @{
     ViewBag.Title = "Instructor";
 }
@@ -8,8 +7,8 @@
 </h1>
 
 <instructorwidget 
-            :userId="'@CurrentUserHelper.Get.UserId'"
-            :url="'@Url.Action("GetWidget", "Instructor")'">
+    :user-id="'@CurrentUserHelper.Get.UserId'"
+    :url="'@Url.Action("GetWidget", "Instructor")'">
 </instructorwidget>
 
 <div class="list-group list-group-courses padding-top">
@@ -19,26 +18,28 @@
             <div class="row">
                 <div class="col-sm-2">
                     <a href="~/instructor/course/@m.Id">
-                        <img class="img-responsive" src="@m.Image" alt="image course" />
+                        <img class="img-responsive" src="~/@m.Image" alt="@m.Name" />
                     </a>
                 </div>
                 <div class="col-sm-4">
                     <h4><a href="~/instructor/course/@m.Id">@m.Name</a></h4>
-                    <p class="text-justify">@m.Description </p>
+                    <p class="text-justify">@m.Description</p>
                 </div>
                 <div class="col-sm-2 text-center">
                     <div class="income">
                         <h5>Total ingreso</h5>
-                        <span class="description"></span>
-                        <price :value="@m.Total"></price>
+                        <span class="description">
+                            <price :value="@m.Total"></price>
+                        </span>
                     </div>
                 </div>
                 <div class="col-sm-2 text-center">
                     <div class="income">
                         <h5>Ingreso del mes</h5>
-                        <span class="description"></span>
+                        <span class="description">
+                            <price :value="@m.TotalPerMonth"></price>
+                        </span>
                     </div>
-                    <price :value="@m.TotalPerMonth"></price>
                 </div>
                 <div class="col-sm-2 text-center">
                     <div class="income last">

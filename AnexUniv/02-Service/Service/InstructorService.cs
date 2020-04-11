@@ -1,7 +1,6 @@
 ﻿using Common;
 using Model.Custom;
 using Model.Domain;
-using Model.Helper;
 using NLog;
 using Persistence.DbContextScope;
 using Persistence.DbContextScope.Extensions;
@@ -32,57 +31,6 @@ namespace Service
             _dbContextScopeFactory = dbContextScopeFactory;
             _courseRepository = courseRepository;
         }
-        public InstructorWidget Widget(string userId)
-        {
-            var result = new InstructorWidget();
-
-            try
-            {
-                using (var ctx = _dbContextScopeFactory.CreateReadOnly())
-                {
-                    var courses = ctx.GetEntity<Course>();
-                    var usersPerCourses = ctx.GetEntity<UsersPerCourse>();
-                    var incomes = ctx.GetEntity<Income>();
-                    var reviewPerCourse = ctx.GetEntity<ReviewsPerCourse>();
-
-                    var queryIncome = incomes.Where(x =>
-                        x.EntityType == Enums.EntityType.Courses
-                        && x.IncomeType == Enums.IncomeType.TeacherTotal
-                    );
-
-
-                    var queryCourse = courses.Where(x => x.UserAuthorId == userId);
-
-                    var currentYear = DateTime.Now.Year;
-                    var currentMonth = DateTime.Now.Month;
-
-                    result.Total = queryIncome.Where(x =>
-                        queryCourse.Any(y => y.Id == x.EntityId)
-                        ).Select(x => x.Total).DefaultIfEmpty().Sum();
-
-                    result.TotalPerMonth = queryIncome.Where(x =>
-                        queryCourse.Any(y => y.Id == x.EntityId)
-                        && x.CreatedAt.Value.Year == currentYear
-                        && x.CreatedAt.Value.Month == currentMonth
-                        ).Select(x => x.Total).DefaultIfEmpty().Sum();
-
-                    result.Students = usersPerCourses.Where(x =>
-                        queryCourse.Any(y => y.Id == x.CourseId)
-                     ).Count();
-
-                    result.Reputation = reviewPerCourse.Where(x =>
-                        queryCourse.Any(y => y.Id == x.CourseId)
-                     ).Select(x => x.Vote).DefaultIfEmpty().Average();
-
-                }
-            }
-            catch (Exception e)
-            {
-                logger.Error(e.Message);
-            }
-
-            return result;
-        }
 
         public IEnumerable<InstructorCourseForGridView> GetAll(string userId)
         {
@@ -105,7 +53,7 @@ namespace Service
                     var currentMonth = DateTime.Now.Month;
 
                     result = (
-                        from c in courses.Where(x => x.UserAuthorId == userId)
+                        from c in courses.Where(x => x.AuthorId == userId)
                         select new InstructorCourseForGridView
                         {
                             Id = c.Id,
@@ -114,15 +62,65 @@ namespace Service
                             Image = c.Image2,
                             Students = usersPerCourses.Count(x => x.CourseId == c.Id),
                             Total = queryIncome.Where(x =>
-                                x.EntityId == c.Id
+                                x.EntityID == c.Id
                             ).Select(x => x.Total).DefaultIfEmpty().Sum(),
                             TotalPerMonth = queryIncome.Where(x =>
-                                x.EntityId == c.Id
+                                x.EntityID == c.Id
                                 && x.CreatedAt.Value.Year == currentYear
                                 && x.CreatedAt.Value.Month == currentMonth
                             ).Select(x => x.Total).DefaultIfEmpty().Sum(),
                         }
                     ).OrderBy(x => x.Name).ToList();
+                }
+            }
+            catch (Exception e)
+            {
+                logger.Error(e.Message);
+            }
+
+            return result;
+        }
+
+        public InstructorWidget Widget(string userId)
+        {
+            var result = new InstructorWidget();
+
+            try
+            {
+                using (var ctx = _dbContextScopeFactory.CreateReadOnly())
+                {
+                    var courses = ctx.GetEntity<Course>();
+                    var usersPerCourses = ctx.GetEntity<UsersPerCourse>();
+                    var incomes = ctx.GetEntity<Income>();
+                    var reviewPerCourses = ctx.GetEntity<ReviewsPerCourse>();
+
+                    var queryIncome = incomes.Where(x =>
+                        x.EntityType == Enums.EntityType.Courses
+                        && x.IncomeType == Enums.IncomeType.TeacherTotal
+                    );
+
+                    var queryCourse = courses.Where(x => x.AuthorId == userId);
+
+                    var currentYear = DateTime.Now.Year;
+                    var currentMonth = DateTime.Now.Month;
+
+                    result.Total = queryIncome.Where(x =>
+                        queryCourse.Any(y => y.Id == x.EntityID)
+                    ).Select(x => x.Total).DefaultIfEmpty().Sum();
+
+                    result.TotalPerMonth = queryIncome.Where(x =>
+                        queryCourse.Any(y => y.Id == x.EntityID)
+                        && x.CreatedAt.Value.Year == currentYear
+                        && x.CreatedAt.Value.Month == currentMonth
+                    ).Select(x => x.Total).DefaultIfEmpty().Sum();
+
+                    result.Students = usersPerCourses.Where(x =>
+                        queryCourse.Any(y => y.Id == x.CourseId)
+                    ).Count();
+
+                    result.Reputation = reviewPerCourses.Where(x =>
+                        queryCourse.Any(y => y.Id == x.CourseId)
+                    ).Select(x => x.Vote).DefaultIfEmpty().Average();
                 }
             }
             catch (Exception e)

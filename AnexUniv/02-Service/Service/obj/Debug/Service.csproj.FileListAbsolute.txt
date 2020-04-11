@@ -1,117 +1,585 @@
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Service\bin\Debug\Service.dll.config
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Service\bin\Debug\Service.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Service\bin\Debug\Service.pdb
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Service\bin\Debug\Common.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.DynamicFilters.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.SqlServer.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Service\bin\Debug\LightInject.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.Core.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.Cookies.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.OAuth.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Service\bin\Debug\Model.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Service\bin\Debug\Newtonsoft.Json.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Service\bin\Debug\NLog.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Service\bin\Debug\Owin.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Service\bin\Debug\Persistence.DatabaseContext.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Service\bin\Debug\Persistence.DbContextScope.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Service\bin\Debug\Persistence.Repository.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Service\bin\Debug\Common.pdb
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Service\bin\Debug\Model.pdb
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Service\bin\Debug\Persistence.DatabaseContext.pdb
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Service\bin\Debug\Persistence.DbContextScope.pdb
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Service\bin\Debug\Persistence.Repository.pdb
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.xml
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.SqlServer.xml
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Service\bin\Debug\LightInject.pdb
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Service\bin\Debug\LightInject.xml
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.xml
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.xml
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.Cookies.xml
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.OAuth.xml
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Service\bin\Debug\Newtonsoft.Json.xml
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Service\bin\Debug\NLog.xml
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Service\obj\Debug\Service.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Service\obj\Debug\Service.pdb
-C:\Users\Lethal\source\repos\AnexUniv\02-Service\Service\bin\Debug\Service.dll.config
-C:\Users\Lethal\source\repos\AnexUniv\02-Service\Service\bin\Debug\Service.dll
-C:\Users\Lethal\source\repos\AnexUniv\02-Service\Service\bin\Debug\Service.pdb
-C:\Users\Lethal\source\repos\AnexUniv\02-Service\Service\bin\Debug\Common.dll
-C:\Users\Lethal\source\repos\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.dll
-C:\Users\Lethal\source\repos\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\Lethal\source\repos\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
-C:\Users\Lethal\source\repos\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.dll
-C:\Users\Lethal\source\repos\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.Cookies.dll
-C:\Users\Lethal\source\repos\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.dll
-C:\Users\Lethal\source\repos\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.OAuth.dll
-C:\Users\Lethal\source\repos\AnexUniv\02-Service\Service\bin\Debug\Model.dll
-C:\Users\Lethal\source\repos\AnexUniv\02-Service\Service\bin\Debug\Newtonsoft.Json.dll
-C:\Users\Lethal\source\repos\AnexUniv\02-Service\Service\bin\Debug\NLog.dll
-C:\Users\Lethal\source\repos\AnexUniv\02-Service\Service\bin\Debug\Owin.dll
-C:\Users\Lethal\source\repos\AnexUniv\02-Service\Service\bin\Debug\Persistence.DatabaseContext.dll
-C:\Users\Lethal\source\repos\AnexUniv\02-Service\Service\bin\Debug\Persistence.DbContextScope.dll
-C:\Users\Lethal\source\repos\AnexUniv\02-Service\Service\bin\Debug\Persistence.Repository.dll
-C:\Users\Lethal\source\repos\AnexUniv\02-Service\Service\bin\Debug\Common.pdb
-C:\Users\Lethal\source\repos\AnexUniv\02-Service\Service\bin\Debug\Model.pdb
-C:\Users\Lethal\source\repos\AnexUniv\02-Service\Service\bin\Debug\Persistence.DatabaseContext.pdb
-C:\Users\Lethal\source\repos\AnexUniv\02-Service\Service\bin\Debug\Persistence.DbContextScope.pdb
-C:\Users\Lethal\source\repos\AnexUniv\02-Service\Service\bin\Debug\Persistence.Repository.pdb
-C:\Users\Lethal\source\repos\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.xml
-C:\Users\Lethal\source\repos\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\Lethal\source\repos\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
-C:\Users\Lethal\source\repos\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.xml
-C:\Users\Lethal\source\repos\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.xml
-C:\Users\Lethal\source\repos\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.Cookies.xml
-C:\Users\Lethal\source\repos\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.OAuth.xml
-C:\Users\Lethal\source\repos\AnexUniv\02-Service\Service\bin\Debug\Newtonsoft.Json.xml
-C:\Users\Lethal\source\repos\AnexUniv\02-Service\Service\bin\Debug\NLog.xml
-C:\Users\Lethal\source\repos\AnexUniv\02-Service\Service\obj\Debug\Service.csprojAssemblyReference.cache
-C:\Users\Lethal\source\repos\AnexUniv\02-Service\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
-C:\Users\Lethal\source\repos\AnexUniv\02-Service\Service\obj\Debug\Service.csproj.CopyComplete
-C:\Users\Lethal\source\repos\AnexUniv\02-Service\Service\obj\Debug\Service.dll
-C:\Users\Lethal\source\repos\AnexUniv\02-Service\Service\obj\Debug\Service.pdb
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\02-Service\Service\bin\Debug\Service.dll.config
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\02-Service\Service\bin\Debug\Service.dll
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\02-Service\Service\bin\Debug\Service.pdb
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\02-Service\Service\bin\Debug\Common.dll
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.dll
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.SqlServer.dll
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.dll
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.Cookies.dll
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.dll
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.OAuth.dll
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\02-Service\Service\bin\Debug\Model.dll
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\02-Service\Service\bin\Debug\Newtonsoft.Json.dll
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\02-Service\Service\bin\Debug\NLog.dll
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\02-Service\Service\bin\Debug\Owin.dll
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\02-Service\Service\bin\Debug\Persistence.DatabaseContext.dll
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\02-Service\Service\bin\Debug\Persistence.DbContextScope.dll
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\02-Service\Service\bin\Debug\Persistence.Repository.dll
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\02-Service\Service\bin\Debug\Common.pdb
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\02-Service\Service\bin\Debug\Model.pdb
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\02-Service\Service\bin\Debug\Persistence.DatabaseContext.pdb
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\02-Service\Service\bin\Debug\Persistence.DbContextScope.pdb
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\02-Service\Service\bin\Debug\Persistence.Repository.pdb
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.xml
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.SqlServer.xml
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.xml
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.xml
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.Cookies.xml
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.OAuth.xml
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\02-Service\Service\bin\Debug\Newtonsoft.Json.xml
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\02-Service\Service\bin\Debug\NLog.xml
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\02-Service\Service\obj\Debug\Service.csprojAssemblyReference.cache
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\02-Service\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\02-Service\Service\obj\Debug\Service.csproj.CopyComplete
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\02-Service\Service\obj\Debug\Service.dll
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\02-Service\Service\obj\Debug\Service.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\02-Service\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\02-Service\Service\bin\Debug\Service.dll.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\02-Service\Service\bin\Debug\Service.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\02-Service\Service\bin\Debug\Service.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\02-Service\Service\bin\Debug\Common.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\02-Service\Service\bin\Debug\Model.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\02-Service\Service\bin\Debug\Newtonsoft.Json.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\02-Service\Service\bin\Debug\NLog.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\02-Service\Service\bin\Debug\Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\02-Service\Service\bin\Debug\Persistence.DatabaseContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\02-Service\Service\bin\Debug\Persistence.DbContextScope.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\02-Service\Service\bin\Debug\Persistence.Repository.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\02-Service\Service\bin\Debug\Common.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\02-Service\Service\bin\Debug\Model.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\02-Service\Service\bin\Debug\Persistence.DatabaseContext.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\02-Service\Service\bin\Debug\Persistence.DbContextScope.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\02-Service\Service\bin\Debug\Persistence.Repository.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\02-Service\Service\bin\Debug\LightInject.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\02-Service\Service\bin\Debug\LightInject.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\02-Service\Service\bin\Debug\Newtonsoft.Json.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\02-Service\Service\bin\Debug\NLog.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\02-Service\Service\obj\Debug\Service.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\02-Service\Service\obj\Debug\Service.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\02-Service\Service\bin\Debug\Service.dll.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\02-Service\Service\bin\Debug\Service.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\02-Service\Service\bin\Debug\Service.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\02-Service\Service\bin\Debug\Common.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\02-Service\Service\bin\Debug\Model.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\02-Service\Service\bin\Debug\Newtonsoft.Json.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\02-Service\Service\bin\Debug\NLog.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\02-Service\Service\bin\Debug\Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\02-Service\Service\bin\Debug\Persistence.DatabaseContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\02-Service\Service\bin\Debug\Persistence.DbContextScope.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\02-Service\Service\bin\Debug\Persistence.Repository.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\02-Service\Service\bin\Debug\Common.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\02-Service\Service\bin\Debug\Model.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\02-Service\Service\bin\Debug\Persistence.DatabaseContext.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\02-Service\Service\bin\Debug\Persistence.DbContextScope.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\02-Service\Service\bin\Debug\Persistence.Repository.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\02-Service\Service\bin\Debug\LightInject.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\02-Service\Service\bin\Debug\LightInject.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\02-Service\Service\bin\Debug\Newtonsoft.Json.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\02-Service\Service\bin\Debug\NLog.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\02-Service\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\02-Service\Service\obj\Debug\Service.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\02-Service\Service\obj\Debug\Service.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\02-Service\Service\bin\Debug\Service.dll.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\02-Service\Service\bin\Debug\Service.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\02-Service\Service\bin\Debug\Service.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\02-Service\Service\bin\Debug\Common.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\02-Service\Service\bin\Debug\Model.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\02-Service\Service\bin\Debug\Newtonsoft.Json.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\02-Service\Service\bin\Debug\NLog.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\02-Service\Service\bin\Debug\Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\02-Service\Service\bin\Debug\Persistence.DatabaseContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\02-Service\Service\bin\Debug\Persistence.DbContextScope.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\02-Service\Service\bin\Debug\Persistence.Repository.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\02-Service\Service\bin\Debug\Common.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\02-Service\Service\bin\Debug\Model.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\02-Service\Service\bin\Debug\Persistence.DatabaseContext.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\02-Service\Service\bin\Debug\Persistence.DbContextScope.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\02-Service\Service\bin\Debug\Persistence.Repository.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\02-Service\Service\bin\Debug\LightInject.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\02-Service\Service\bin\Debug\LightInject.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\02-Service\Service\bin\Debug\Newtonsoft.Json.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\02-Service\Service\bin\Debug\NLog.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\02-Service\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\02-Service\Service\obj\Debug\Service.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\02-Service\Service\obj\Debug\Service.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\02-Service\Service\bin\Debug\Service.dll.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\02-Service\Service\bin\Debug\Service.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\02-Service\Service\bin\Debug\Service.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\02-Service\Service\bin\Debug\Common.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\02-Service\Service\bin\Debug\Model.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\02-Service\Service\bin\Debug\Newtonsoft.Json.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\02-Service\Service\bin\Debug\NLog.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\02-Service\Service\bin\Debug\Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\02-Service\Service\bin\Debug\Persistence.DatabaseContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\02-Service\Service\bin\Debug\Persistence.DbContextScope.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\02-Service\Service\bin\Debug\Persistence.Repository.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\02-Service\Service\bin\Debug\Common.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\02-Service\Service\bin\Debug\Model.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\02-Service\Service\bin\Debug\Persistence.DatabaseContext.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\02-Service\Service\bin\Debug\Persistence.DbContextScope.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\02-Service\Service\bin\Debug\Persistence.Repository.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\02-Service\Service\bin\Debug\LightInject.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\02-Service\Service\bin\Debug\LightInject.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\02-Service\Service\bin\Debug\Newtonsoft.Json.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\02-Service\Service\bin\Debug\NLog.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\02-Service\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\02-Service\Service\obj\Debug\Service.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\02-Service\Service\obj\Debug\Service.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\02-Service\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\02-Service\Service\obj\Debug\Service.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\02-Service\Service\obj\Debug\Service.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\02-Service\Service\bin\Debug\Service.dll.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\02-Service\Service\bin\Debug\Service.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\02-Service\Service\bin\Debug\Service.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\02-Service\Service\bin\Debug\Common.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\02-Service\Service\bin\Debug\Model.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\02-Service\Service\bin\Debug\Newtonsoft.Json.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\02-Service\Service\bin\Debug\NLog.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\02-Service\Service\bin\Debug\Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\02-Service\Service\bin\Debug\Persistence.DatabaseContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\02-Service\Service\bin\Debug\Persistence.DbContextScope.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\02-Service\Service\bin\Debug\Persistence.Repository.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\02-Service\Service\bin\Debug\Common.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\02-Service\Service\bin\Debug\Model.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\02-Service\Service\bin\Debug\Persistence.DatabaseContext.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\02-Service\Service\bin\Debug\Persistence.DbContextScope.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\02-Service\Service\bin\Debug\Persistence.Repository.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\02-Service\Service\bin\Debug\LightInject.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\02-Service\Service\bin\Debug\LightInject.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\02-Service\Service\bin\Debug\Newtonsoft.Json.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\02-Service\Service\bin\Debug\NLog.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\02-Service\Service\bin\Debug\Service.dll.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\02-Service\Service\bin\Debug\Service.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\02-Service\Service\bin\Debug\Service.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\02-Service\Service\bin\Debug\Common.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\02-Service\Service\bin\Debug\Model.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\02-Service\Service\bin\Debug\Newtonsoft.Json.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\02-Service\Service\bin\Debug\NLog.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\02-Service\Service\bin\Debug\Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\02-Service\Service\bin\Debug\Persistence.DatabaseContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\02-Service\Service\bin\Debug\Persistence.DbContextScope.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\02-Service\Service\bin\Debug\Persistence.Repository.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\02-Service\Service\bin\Debug\Common.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\02-Service\Service\bin\Debug\Model.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\02-Service\Service\bin\Debug\Persistence.DatabaseContext.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\02-Service\Service\bin\Debug\Persistence.DbContextScope.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\02-Service\Service\bin\Debug\Persistence.Repository.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\02-Service\Service\bin\Debug\LightInject.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\02-Service\Service\bin\Debug\LightInject.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\02-Service\Service\bin\Debug\Newtonsoft.Json.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\02-Service\Service\bin\Debug\NLog.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\02-Service\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\02-Service\Service\obj\Debug\Service.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\02-Service\Service\obj\Debug\Service.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\02-Service\Service\bin\Debug\Service.dll.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\02-Service\Service\bin\Debug\Service.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\02-Service\Service\bin\Debug\Service.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\02-Service\Service\bin\Debug\Common.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\02-Service\Service\bin\Debug\Model.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\02-Service\Service\bin\Debug\Newtonsoft.Json.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\02-Service\Service\bin\Debug\NLog.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\02-Service\Service\bin\Debug\Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\02-Service\Service\bin\Debug\Persistence.DatabaseContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\02-Service\Service\bin\Debug\Persistence.DbContextScope.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\02-Service\Service\bin\Debug\Persistence.Repository.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\02-Service\Service\bin\Debug\Common.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\02-Service\Service\bin\Debug\Model.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\02-Service\Service\bin\Debug\Persistence.DatabaseContext.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\02-Service\Service\bin\Debug\Persistence.DbContextScope.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\02-Service\Service\bin\Debug\Persistence.Repository.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\02-Service\Service\bin\Debug\LightInject.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\02-Service\Service\bin\Debug\LightInject.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\02-Service\Service\bin\Debug\Newtonsoft.Json.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\02-Service\Service\bin\Debug\NLog.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\02-Service\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\02-Service\Service\obj\Debug\Service.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\02-Service\Service\obj\Debug\Service.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\02-Service\Service\bin\Debug\Service.dll.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\02-Service\Service\bin\Debug\Service.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\02-Service\Service\bin\Debug\Service.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\02-Service\Service\bin\Debug\Common.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\02-Service\Service\bin\Debug\Model.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\02-Service\Service\bin\Debug\Newtonsoft.Json.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\02-Service\Service\bin\Debug\NLog.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\02-Service\Service\bin\Debug\Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\02-Service\Service\bin\Debug\Persistence.DatabaseContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\02-Service\Service\bin\Debug\Persistence.DbContextScope.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\02-Service\Service\bin\Debug\Persistence.Repository.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\02-Service\Service\bin\Debug\Common.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\02-Service\Service\bin\Debug\Model.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\02-Service\Service\bin\Debug\Persistence.DatabaseContext.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\02-Service\Service\bin\Debug\Persistence.DbContextScope.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\02-Service\Service\bin\Debug\Persistence.Repository.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\02-Service\Service\bin\Debug\LightInject.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\02-Service\Service\bin\Debug\LightInject.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\02-Service\Service\bin\Debug\Newtonsoft.Json.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\02-Service\Service\bin\Debug\NLog.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\02-Service\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\02-Service\Service\obj\Debug\Service.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\02-Service\Service\obj\Debug\Service.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\02-Service\Service\bin\Debug\Service.dll.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\02-Service\Service\bin\Debug\Service.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\02-Service\Service\bin\Debug\Service.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\02-Service\Service\bin\Debug\Common.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\02-Service\Service\bin\Debug\Model.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\02-Service\Service\bin\Debug\Newtonsoft.Json.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\02-Service\Service\bin\Debug\NLog.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\02-Service\Service\bin\Debug\Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\02-Service\Service\bin\Debug\Persistence.DatabaseContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\02-Service\Service\bin\Debug\Persistence.DbContextScope.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\02-Service\Service\bin\Debug\Persistence.Repository.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\02-Service\Service\bin\Debug\Common.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\02-Service\Service\bin\Debug\Model.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\02-Service\Service\bin\Debug\Persistence.DatabaseContext.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\02-Service\Service\bin\Debug\Persistence.DbContextScope.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\02-Service\Service\bin\Debug\Persistence.Repository.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\02-Service\Service\bin\Debug\LightInject.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\02-Service\Service\bin\Debug\LightInject.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\02-Service\Service\bin\Debug\Newtonsoft.Json.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\02-Service\Service\bin\Debug\NLog.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\02-Service\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\02-Service\Service\obj\Debug\Service.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\02-Service\Service\obj\Debug\Service.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\02-Service\Service\bin\Debug\Service.dll.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\02-Service\Service\bin\Debug\Service.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\02-Service\Service\bin\Debug\Service.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\02-Service\Service\bin\Debug\Common.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\02-Service\Service\bin\Debug\Model.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\02-Service\Service\bin\Debug\Newtonsoft.Json.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\02-Service\Service\bin\Debug\NLog.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\02-Service\Service\bin\Debug\Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\02-Service\Service\bin\Debug\Persistence.DatabaseContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\02-Service\Service\bin\Debug\Persistence.DbContextScope.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\02-Service\Service\bin\Debug\Persistence.Repository.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\02-Service\Service\bin\Debug\Common.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\02-Service\Service\bin\Debug\Model.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\02-Service\Service\bin\Debug\Persistence.DatabaseContext.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\02-Service\Service\bin\Debug\Persistence.DbContextScope.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\02-Service\Service\bin\Debug\Persistence.Repository.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\02-Service\Service\bin\Debug\LightInject.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\02-Service\Service\bin\Debug\LightInject.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\02-Service\Service\bin\Debug\Newtonsoft.Json.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\02-Service\Service\bin\Debug\NLog.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\02-Service\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\02-Service\Service\obj\Debug\Service.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\02-Service\Service\obj\Debug\Service.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\02-Service\Service\bin\Debug\Service.dll.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\02-Service\Service\bin\Debug\Service.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\02-Service\Service\bin\Debug\Service.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\02-Service\Service\bin\Debug\Common.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\02-Service\Service\bin\Debug\Model.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\02-Service\Service\bin\Debug\Newtonsoft.Json.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\02-Service\Service\bin\Debug\NLog.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\02-Service\Service\bin\Debug\Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\02-Service\Service\bin\Debug\Persistence.DatabaseContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\02-Service\Service\bin\Debug\Persistence.DbContextScope.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\02-Service\Service\bin\Debug\Persistence.Repository.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\02-Service\Service\bin\Debug\Common.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\02-Service\Service\bin\Debug\Model.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\02-Service\Service\bin\Debug\Persistence.DatabaseContext.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\02-Service\Service\bin\Debug\Persistence.DbContextScope.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\02-Service\Service\bin\Debug\Persistence.Repository.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\02-Service\Service\bin\Debug\LightInject.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\02-Service\Service\bin\Debug\LightInject.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\02-Service\Service\bin\Debug\Newtonsoft.Json.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\02-Service\Service\bin\Debug\NLog.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\02-Service\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\02-Service\Service\obj\Debug\Service.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\02-Service\Service\obj\Debug\Service.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\02-Service\Service\bin\Debug\Service.dll.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\02-Service\Service\bin\Debug\Service.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\02-Service\Service\bin\Debug\Service.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\02-Service\Service\bin\Debug\Common.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\02-Service\Service\bin\Debug\Model.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\02-Service\Service\bin\Debug\Newtonsoft.Json.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\02-Service\Service\bin\Debug\NLog.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\02-Service\Service\bin\Debug\Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\02-Service\Service\bin\Debug\Persistence.DatabaseContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\02-Service\Service\bin\Debug\Persistence.DbContextScope.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\02-Service\Service\bin\Debug\Persistence.Repository.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\02-Service\Service\bin\Debug\Common.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\02-Service\Service\bin\Debug\Model.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\02-Service\Service\bin\Debug\Persistence.DatabaseContext.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\02-Service\Service\bin\Debug\Persistence.DbContextScope.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\02-Service\Service\bin\Debug\Persistence.Repository.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\02-Service\Service\bin\Debug\LightInject.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\02-Service\Service\bin\Debug\LightInject.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\02-Service\Service\bin\Debug\Newtonsoft.Json.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\02-Service\Service\bin\Debug\NLog.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\02-Service\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\02-Service\Service\obj\Debug\Service.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\02-Service\Service\obj\Debug\Service.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\02-Service\Service\bin\Debug\Service.dll.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\02-Service\Service\bin\Debug\Service.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\02-Service\Service\bin\Debug\Service.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\02-Service\Service\bin\Debug\Common.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\02-Service\Service\bin\Debug\Model.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\02-Service\Service\bin\Debug\Newtonsoft.Json.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\02-Service\Service\bin\Debug\NLog.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\02-Service\Service\bin\Debug\Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\02-Service\Service\bin\Debug\Persistence.DatabaseContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\02-Service\Service\bin\Debug\Persistence.DbContextScope.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\02-Service\Service\bin\Debug\Persistence.Repository.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\02-Service\Service\bin\Debug\Common.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\02-Service\Service\bin\Debug\Model.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\02-Service\Service\bin\Debug\Persistence.DatabaseContext.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\02-Service\Service\bin\Debug\Persistence.DbContextScope.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\02-Service\Service\bin\Debug\Persistence.Repository.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\02-Service\Service\bin\Debug\LightInject.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\02-Service\Service\bin\Debug\LightInject.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\02-Service\Service\bin\Debug\Newtonsoft.Json.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\02-Service\Service\bin\Debug\NLog.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\02-Service\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\02-Service\Service\obj\Debug\Service.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\02-Service\Service\obj\Debug\Service.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\02-Service\Service\bin\Debug\ImageResizer.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\02-Service\Service\bin\Debug\ImageResizer.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\02-Service\Service\bin\Debug\Service.dll.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\02-Service\Service\bin\Debug\Service.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\02-Service\Service\bin\Debug\Service.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\02-Service\Service\bin\Debug\Common.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\02-Service\Service\bin\Debug\ImageResizer.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\02-Service\Service\bin\Debug\Model.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\02-Service\Service\bin\Debug\Newtonsoft.Json.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\02-Service\Service\bin\Debug\NLog.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\02-Service\Service\bin\Debug\Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\02-Service\Service\bin\Debug\Persistence.DatabaseContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\02-Service\Service\bin\Debug\Persistence.DbContextScope.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\02-Service\Service\bin\Debug\Persistence.Repository.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\02-Service\Service\bin\Debug\Common.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\02-Service\Service\bin\Debug\Model.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\02-Service\Service\bin\Debug\Persistence.DatabaseContext.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\02-Service\Service\bin\Debug\Persistence.DbContextScope.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\02-Service\Service\bin\Debug\Persistence.Repository.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\02-Service\Service\bin\Debug\ImageResizer.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\02-Service\Service\bin\Debug\Newtonsoft.Json.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\02-Service\Service\bin\Debug\NLog.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\02-Service\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\02-Service\Service\obj\Debug\Service.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\02-Service\Service\obj\Debug\Service.pdb
+C:\Users\Lethal\Desktop\AnexUniv\02-Service\Service\bin\Debug\Service.dll.config
+C:\Users\Lethal\Desktop\AnexUniv\02-Service\Service\bin\Debug\Service.dll
+C:\Users\Lethal\Desktop\AnexUniv\02-Service\Service\bin\Debug\Service.pdb
+C:\Users\Lethal\Desktop\AnexUniv\02-Service\Service\bin\Debug\Common.dll
+C:\Users\Lethal\Desktop\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.dll
+C:\Users\Lethal\Desktop\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lethal\Desktop\AnexUniv\02-Service\Service\bin\Debug\ImageResizer.dll
+C:\Users\Lethal\Desktop\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Lethal\Desktop\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.dll
+C:\Users\Lethal\Desktop\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Lethal\Desktop\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Lethal\Desktop\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Lethal\Desktop\AnexUniv\02-Service\Service\bin\Debug\Model.dll
+C:\Users\Lethal\Desktop\AnexUniv\02-Service\Service\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lethal\Desktop\AnexUniv\02-Service\Service\bin\Debug\NLog.dll
+C:\Users\Lethal\Desktop\AnexUniv\02-Service\Service\bin\Debug\Owin.dll
+C:\Users\Lethal\Desktop\AnexUniv\02-Service\Service\bin\Debug\Persistence.DatabaseContext.dll
+C:\Users\Lethal\Desktop\AnexUniv\02-Service\Service\bin\Debug\Persistence.DbContextScope.dll
+C:\Users\Lethal\Desktop\AnexUniv\02-Service\Service\bin\Debug\Persistence.Repository.dll
+C:\Users\Lethal\Desktop\AnexUniv\02-Service\Service\bin\Debug\Common.pdb
+C:\Users\Lethal\Desktop\AnexUniv\02-Service\Service\bin\Debug\Model.pdb
+C:\Users\Lethal\Desktop\AnexUniv\02-Service\Service\bin\Debug\Persistence.DatabaseContext.pdb
+C:\Users\Lethal\Desktop\AnexUniv\02-Service\Service\bin\Debug\Persistence.DbContextScope.pdb
+C:\Users\Lethal\Desktop\AnexUniv\02-Service\Service\bin\Debug\Persistence.Repository.pdb
+C:\Users\Lethal\Desktop\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.xml
+C:\Users\Lethal\Desktop\AnexUniv\02-Service\Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lethal\Desktop\AnexUniv\02-Service\Service\bin\Debug\ImageResizer.xml
+C:\Users\Lethal\Desktop\AnexUniv\02-Service\Service\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Lethal\Desktop\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.xml
+C:\Users\Lethal\Desktop\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Lethal\Desktop\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Lethal\Desktop\AnexUniv\02-Service\Service\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Lethal\Desktop\AnexUniv\02-Service\Service\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lethal\Desktop\AnexUniv\02-Service\Service\bin\Debug\NLog.xml
+C:\Users\Lethal\Desktop\AnexUniv\02-Service\Service\obj\Debug\Service.csprojAssemblyReference.cache
+C:\Users\Lethal\Desktop\AnexUniv\02-Service\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\Lethal\Desktop\AnexUniv\02-Service\Service\obj\Debug\Service.csproj.CopyComplete
+C:\Users\Lethal\Desktop\AnexUniv\02-Service\Service\obj\Debug\Service.dll
+C:\Users\Lethal\Desktop\AnexUniv\02-Service\Service\obj\Debug\Service.pdb

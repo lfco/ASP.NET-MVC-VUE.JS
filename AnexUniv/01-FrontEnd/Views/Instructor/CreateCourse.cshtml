@@ -1,5 +1,4 @@
 ﻿@model CourseBasicInformationViewModel
-
 @{
     ViewBag.Title = "Nuevo curso";
 }
@@ -8,3 +7,7 @@
 </h1>
 
 @Html.Partial("Course/_BasicInformation", Model)
+
+@section scripts {
+    <script src="~/Assets/vue_components/dist/instructor.components.js"></script>
+}

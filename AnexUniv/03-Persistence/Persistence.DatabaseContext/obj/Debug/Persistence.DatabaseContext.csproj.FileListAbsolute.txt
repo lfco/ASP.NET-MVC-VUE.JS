@@ -1,77 +1,387 @@
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Persistence.DatabaseContext.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Persistence.DatabaseContext.pdb
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Common.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.DynamicFilters.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Microsoft.AspNet.Identity.Core.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Model.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Newtonsoft.Json.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Common.pdb
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Model.pdb
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.xml
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Microsoft.AspNet.Identity.Core.xml
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Newtonsoft.Json.xml
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.pdb
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.xml
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.csprojResolveAssemblyReference.cache
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.Initialize.resources
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.csproj.GenerateResource.Cache
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.pdb
-C:\Users\Lethal\source\repos\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Persistence.DatabaseContext.dll
-C:\Users\Lethal\source\repos\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Persistence.DatabaseContext.pdb
-C:\Users\Lethal\source\repos\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Common.dll
-C:\Users\Lethal\source\repos\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.dll
-C:\Users\Lethal\source\repos\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.DynamicFilters.dll
-C:\Users\Lethal\source\repos\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\Lethal\source\repos\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Model.dll
-C:\Users\Lethal\source\repos\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Newtonsoft.Json.dll
-C:\Users\Lethal\source\repos\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.dll
-C:\Users\Lethal\source\repos\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Common.pdb
-C:\Users\Lethal\source\repos\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Model.pdb
-C:\Users\Lethal\source\repos\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.xml
-C:\Users\Lethal\source\repos\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\Lethal\source\repos\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Newtonsoft.Json.xml
-C:\Users\Lethal\source\repos\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.pdb
-C:\Users\Lethal\source\repos\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.xml
-C:\Users\Lethal\source\repos\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.csprojAssemblyReference.cache
-C:\Users\Lethal\source\repos\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.Initialize.resources
-C:\Users\Lethal\source\repos\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.csproj.GenerateResource.cache
-C:\Users\Lethal\source\repos\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.csproj.CoreCompileInputs.cache
-C:\Users\Lethal\source\repos\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.csproj.CopyComplete
-C:\Users\Lethal\source\repos\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.dll
-C:\Users\Lethal\source\repos\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.pdb
-C:\Users\Lethal\source\repos\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.SprintV10.resources
-C:\Users\Lethal\source\repos\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.SprintV20.resources
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Persistence.DatabaseContext.dll
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Persistence.DatabaseContext.pdb
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Common.dll
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.dll
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.DynamicFilters.dll
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Model.dll
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Newtonsoft.Json.dll
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.dll
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Common.pdb
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Model.pdb
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.xml
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Newtonsoft.Json.xml
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.pdb
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.xml
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.csprojAssemblyReference.cache
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.Initialize.resources
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.SprintV10.resources
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.SprintV20.resources
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.csproj.GenerateResource.cache
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.csproj.CoreCompileInputs.cache
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.csproj.CopyComplete
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.dll
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.pdb
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.sprintv30.resources
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.Correcion.resources
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Persistence.DatabaseContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Persistence.DatabaseContext.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Common.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.DynamicFilters.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Model.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Newtonsoft.Json.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Common.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Model.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Newtonsoft.Json.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.Initialize.resources
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.SprintV10.resources
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.SprintV20.resources
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.csproj.GenerateResource.Cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Persistence.DatabaseContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Persistence.DatabaseContext.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Common.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.DynamicFilters.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Model.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Newtonsoft.Json.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Common.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Model.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Newtonsoft.Json.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.Initialize.resources
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.SprintV10.resources
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.SprintV20.resources
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.csproj.GenerateResource.Cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Persistence.DatabaseContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Persistence.DatabaseContext.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Common.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.DynamicFilters.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Model.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Newtonsoft.Json.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Common.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Model.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Newtonsoft.Json.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.Initialize.resources
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.SprintV10.resources
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.SprintV20.resources
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.csproj.GenerateResource.Cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Persistence.DatabaseContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Persistence.DatabaseContext.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Common.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.DynamicFilters.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Model.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Newtonsoft.Json.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Common.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Model.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Newtonsoft.Json.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.Initialize.resources
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.SprintV10.resources
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.SprintV20.resources
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.csproj.GenerateResource.Cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.SprintV30.resources
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Persistence.DatabaseContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Persistence.DatabaseContext.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Common.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.DynamicFilters.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Model.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Newtonsoft.Json.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Common.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Model.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Newtonsoft.Json.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.Initialize.resources
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.SprintV10.resources
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.SprintV20.resources
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.SprintV30.resources
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.csproj.GenerateResource.Cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Persistence.DatabaseContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Persistence.DatabaseContext.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Common.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.DynamicFilters.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Model.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Newtonsoft.Json.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Common.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Model.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Newtonsoft.Json.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.Initialize.resources
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.SprintV10.resources
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.SprintV20.resources
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.SprintV30.resources
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.csproj.GenerateResource.Cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Persistence.DatabaseContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Persistence.DatabaseContext.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Common.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.DynamicFilters.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Model.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Newtonsoft.Json.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Common.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Model.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Newtonsoft.Json.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.Initialize.resources
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.SprintV10.resources
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.SprintV20.resources
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.SprintV30.resources
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.csproj.GenerateResource.Cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Persistence.DatabaseContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Persistence.DatabaseContext.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Common.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.DynamicFilters.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Model.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Newtonsoft.Json.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Common.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Model.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Newtonsoft.Json.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.Initialize.resources
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.SprintV10.resources
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.SprintV20.resources
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.SprintV30.resources
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.csproj.GenerateResource.Cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Persistence.DatabaseContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Persistence.DatabaseContext.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Common.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.DynamicFilters.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Model.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Newtonsoft.Json.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Common.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Model.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Newtonsoft.Json.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.Initialize.resources
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.SprintV10.resources
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.SprintV20.resources
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.SprintV30.resources
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.csproj.GenerateResource.Cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Persistence.DatabaseContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Persistence.DatabaseContext.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Common.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.DynamicFilters.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Model.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Newtonsoft.Json.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Common.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Model.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Newtonsoft.Json.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.Initialize.resources
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.SprintV10.resources
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.SprintV20.resources
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.SprintV30.resources
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.csproj.GenerateResource.Cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Persistence.DatabaseContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Persistence.DatabaseContext.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Common.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.DynamicFilters.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Model.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Newtonsoft.Json.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Common.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Model.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Newtonsoft.Json.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.Initialize.resources
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.SprintV10.resources
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.SprintV20.resources
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.SprintV30.resources
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.csproj.GenerateResource.Cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Persistence.DatabaseContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Persistence.DatabaseContext.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Common.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.DynamicFilters.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Model.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Newtonsoft.Json.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Common.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Model.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Newtonsoft.Json.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.Initialize.resources
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.SprintV10.resources
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.SprintV20.resources
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.SprintV30.resources
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.csproj.GenerateResource.Cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Persistence.DatabaseContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Persistence.DatabaseContext.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Common.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.DynamicFilters.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Model.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Newtonsoft.Json.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Common.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Model.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Newtonsoft.Json.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.Initialize.resources
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.SprintV10.resources
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.SprintV20.resources
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.SprintV30.resources
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.csproj.GenerateResource.Cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Persistence.DatabaseContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Persistence.DatabaseContext.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Common.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.DynamicFilters.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Model.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Newtonsoft.Json.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Common.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Model.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Newtonsoft.Json.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.Initialize.resources
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.SprintV10.resources
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.SprintV20.resources
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.SprintV30.resources
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.csproj.GenerateResource.Cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.csprojResolveAssemblyReference.cache
+C:\Users\Lethal\Desktop\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Persistence.DatabaseContext.dll
+C:\Users\Lethal\Desktop\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Persistence.DatabaseContext.pdb
+C:\Users\Lethal\Desktop\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Common.dll
+C:\Users\Lethal\Desktop\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.dll
+C:\Users\Lethal\Desktop\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.DynamicFilters.dll
+C:\Users\Lethal\Desktop\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lethal\Desktop\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Model.dll
+C:\Users\Lethal\Desktop\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lethal\Desktop\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.dll
+C:\Users\Lethal\Desktop\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Common.pdb
+C:\Users\Lethal\Desktop\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Model.pdb
+C:\Users\Lethal\Desktop\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.xml
+C:\Users\Lethal\Desktop\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lethal\Desktop\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lethal\Desktop\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.pdb
+C:\Users\Lethal\Desktop\AnexUniv\03-Persistence\Persistence.DatabaseContext\bin\Debug\LightInject.xml
+C:\Users\Lethal\Desktop\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.csprojAssemblyReference.cache
+C:\Users\Lethal\Desktop\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.Initialize.resources
+C:\Users\Lethal\Desktop\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.SprintV10.resources
+C:\Users\Lethal\Desktop\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.SprintV20.resources
+C:\Users\Lethal\Desktop\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.Migrations.SprintV30.resources
+C:\Users\Lethal\Desktop\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.csproj.GenerateResource.cache
+C:\Users\Lethal\Desktop\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.csproj.CoreCompileInputs.cache
+C:\Users\Lethal\Desktop\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.csproj.CopyComplete
+C:\Users\Lethal\Desktop\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.dll
+C:\Users\Lethal\Desktop\AnexUniv\03-Persistence\Persistence.DatabaseContext\obj\Debug\Persistence.DatabaseContext.pdb

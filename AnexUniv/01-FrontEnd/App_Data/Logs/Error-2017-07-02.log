@@ -1,0 +1,8 @@
+[ERROR] 02:20:51.212:
+- Service.InstructorService.GetAll (Line #77)
+- The cast to value type 'System.Decimal' failed because the materialized value is null. Either the result type's generic parameter or the query must use a nullable type.
+ 
+[ERROR] 02:21:12.913:
+- Service.InstructorService.GetAll (Line #77)
+- The cast to value type 'System.Decimal' failed because the materialized value is null. Either the result type's generic parameter or the query must use a nullable type.
+ 

@@ -80,8 +80,7 @@ namespace Service
                     var queryRoles = (
                         from r in roles
                         from ur in userRoles.Where(x => x.RoleId == r.Id)
-                        select new
-                        {
+                        select new {
                             UserId = ur.UserId,
                             Role = r.Name
                         }
@@ -94,7 +93,7 @@ namespace Service
                             Id = u.Id,
                             FullName = u.Name + " " + u.LastName,
                             Email = u.Email,
-                            CoursesCreated = courses.Where(x => x.UserAuthorId == u.Id).Count(),
+                            CoursesCreated = courses.Where(x => x.AuthorId == u.Id).Count(),
                             CoursesTaken = userCourses.Where(x => x.UserId == u.Id).Count(),
                             Roles = queryRoles.Where(x => x.UserId == u.Id).Select(x => x.Role).ToList()
                         }

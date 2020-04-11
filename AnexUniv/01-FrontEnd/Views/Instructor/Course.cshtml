@@ -1,5 +1,7 @@
-﻿@{
-    ViewBag.Title = "Curso básico de Javascript y CSS 3";
+﻿@model CourseBasicInformationViewModel
+
+@{
+    ViewBag.Title = Model.Course.Name;
 }
 <h1 class="page-header">
     @ViewBag.Title
@@ -16,13 +18,13 @@
     <!-- Tab panes -->
     <div class="tab-content">
         <div role="tabpanel" class="tab-pane active" id="information">
-            @Html.Partial("Course/_BasicInformation")
+            @Html.Partial("Course/_BasicInformation", Model)
         </div>
         <div role="tabpanel" class="tab-pane" id="image">
-            @Html.Partial("Course/_Image")
+            @Html.Partial("Course/_Image", Model.Course)
         </div>
         <div role="tabpanel" class="tab-pane" id="lessons">
-            @Html.Partial("Course/_Lessons")
+            @Html.Partial("Course/_Lessons", Model.Course)
         </div>
     </div>
 </div>
@@ -31,10 +33,16 @@
 }
 
 @section scripts {
+    <script src="~/Assets/vue_components/dist/instructor.components.js"></script>
     <script src="~/Assets/bower_components/trumbowyg/dist/trumbowyg.min.js"></script>
     <script>
         $(document).ready(function () {
             $('#wysiwyg').trumbowyg();
         })
+    </script>
+    <script>
+        function refreshImage(r) {
+            $("#courseImage").attr('src', App.helpers.url.base() + r.Result);
+        }
     </script>
 }

@@ -66,16 +66,15 @@
     <Compile Include="Auth\ApplicationUserRole.cs" />
     <Compile Include="Custom\InstructorWidget.cs" />
     <Compile Include="Custom\InstructorCourseForGridView.cs" />
-    <Compile Include="Custom\CourseForGridView.cs" />
     <Compile Include="Custom\UserForGridView.cs" />
     <Compile Include="Custom\CategoryForGridView.cs" />
-    <Compile Include="Domain\Category.cs" />
-    <Compile Include="Domain\Course.cs" />
-    <Compile Include="Domain\CourseLessonLernedsPerStudent.cs" />
     <Compile Include="Domain\Income.cs" />
-    <Compile Include="Domain\LessonPerCourse.cs" />
+    <Compile Include="Domain\CourseLessonLearnedsPerStudent.cs" />
     <Compile Include="Domain\ReviewsPerCourse.cs" />
     <Compile Include="Domain\UsersPerCourse.cs" />
+    <Compile Include="Domain\LessonsPerCourse.cs" />
+    <Compile Include="Domain\Course.cs" />
+    <Compile Include="Domain\Category.cs" />
     <Compile Include="Helper\AuditEntity.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

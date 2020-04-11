@@ -40,8 +40,8 @@
 </div>
 
 @section Scripts {
-    <script src="~/Assets/vue_components/dist/category.components.js"></script>
-    <script>
+<script src="~/Assets/vue_components/dist/category.components.js"></script>
+<script>
 $(document).ready(function () {
     let conf = {
         class: 'table-striped table-bordered',
@@ -88,26 +88,26 @@ $(document).ready(function () {
         $Vm.$emit('categorySelectedID', value);
     })
 
+    grid.tabla().on('click', '.category-delete', function () {
+        let value = $(this).val();
+
+        if (!confirm('Esta seguro de eliminar este registro?')) return;
+
+        $.post('@Url.Action("DeleteCategory", "Panel")', {
+            id: value
+        }, function(r) {
+            if (!r.Response) {
+                alert(r.Message)
+            } else {
+                grid.refrescar();
+            }
+        }, 'json')
+    })
+
     $("#category-new").click(function() {
         $("#category-edit").modal('show');
         $Vm.$emit('categorySelectedID', 0);
     })
-
-    grid.tabla().on('click', '.category-delete', function () {
-    let value = $(this).val();
-
-    if (!confirm('Esta seguro de eliminar este registro?')) return;
-
-    $.post('@Url.Action("DeleteCategory", "Panel")', {
-        id: value
-    }, function(r) {
-        if (!r.Response) {
-            alert(r.Message)
-        } else {
-            grid.refrescar();
-        }
-    }, 'json')
-    })
 })
-    </script>
+</script>
 }

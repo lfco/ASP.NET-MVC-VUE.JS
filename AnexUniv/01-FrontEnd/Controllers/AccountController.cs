@@ -1,7 +1,4 @@
-﻿using System;
-using System.Globalization;
-using System.Linq;
-using System.Security.Claims;
+﻿using System.Linq;
 using System.Threading.Tasks;
 using System.Web;
 using System.Web.Mvc;
@@ -11,11 +8,9 @@ using Microsoft.Owin.Security;
 using FrontEnd.ViewModels;
 using Model.Auth;
 using Auth.Service;
-using Newtonsoft.Json;
 using Common;
 using Service;
 using FrontEnd.App_Start;
-using System.Collections.Generic;
 
 namespace FrontEnd.Controllers
 {
@@ -23,6 +18,7 @@ namespace FrontEnd.Controllers
     public class AccountController : Controller
     {
         private readonly IUserService _userService = DependecyFactory.GetInstance<IUserService>();
+
         private ApplicationSignInManager _signInManager;
         private ApplicationUserManager _userManager;
 
@@ -108,6 +104,39 @@ namespace FrontEnd.Controllers
             return RedirectToLocal(returnUrl);
         }
 
+        public async Task<ActionResult> Get()
+        {
+            var userId = CurrentUserHelper.Get.UserId;
+            var model = await UserManager.FindByIdAsync(userId);
+
+            return View(new UserBasicInformationViewModel {
+                Id = model.Id,
+                Name = model.Name,
+                LastName = model.LastName
+            });
+        }
+
+        [HttpPost]
+        public JsonResult Update(UserBasicInformationViewModel model)
+        {
+            var rh = new ResponseHelper();
+
+            if (ModelState.IsValid)
+            {
+                rh = _userService.Update(new ApplicationUser {
+                    Id = model.Id,
+                    Name = model.Name,
+                    LastName = model.LastName
+                });
+            }
+            else
+            {
+                rh.SetValidations(ModelState.GetErrors());
+            }
+
+            return Json(rh);
+        }
+
         //
         // GET: /Account/VerifyCode
         [AllowAnonymous]
@@ -119,41 +148,6 @@ namespace FrontEnd.Controllers
                 return View("Error");
             }
             return View(new VerifyCodeViewModel { Provider = provider, ReturnUrl = returnUrl, RememberMe = rememberMe });
-        }
-
-        public async Task<ActionResult> Get()
-        {
-            var userId = CurrentUserHelper.Get.UserId;
-            var model = await UserManager.FindByIdAsync(userId);
-
-            return View(new UserBasicInformationViewModel
-            {
-                Id = model.Id,
-                Name = model.Name,
-                LastName = model.LastName
-            });
-        }
-
-        [HttpPost]
-        public JsonResult Update (UserBasicInformationViewModel model)
-        {
-            var rh = new ResponseHelper();
-
-            if (ModelState.IsValid)
-            {
-                rh = _userService.Update(new ApplicationUser
-                {
-                    Id = model.Id,
-                    Name = model.Name,
-                    LastName = model.LastName
-                }); ;
-            }
-            else
-            {
-                rh.SetValidations(ModelState.GetErrors());
-            }
-
-            return Json(rh);
         }
 
         //
@@ -206,14 +200,12 @@ namespace FrontEnd.Controllers
                 var user = new ApplicationUser { 
                     Name = model.Name,
                     LastName = model.LastName,
-                    UserName = model.Email, 
+                    UserName = model.Email,
                     Email = model.Email,
                     Credit = Parameters.NewUserCredits
                 };
-                
-                
+
                 var result = await UserManager.CreateWithDefaultRole(user, model.Password);
-                
                 if (result.Succeeded)
                 {
                     //await SignInManager.SignInAsync(user, isPersistent:false, rememberBrowser:false);

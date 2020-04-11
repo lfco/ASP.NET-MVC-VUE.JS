@@ -99,6 +99,25 @@ namespace Service
             return rh;
         }
 
+        public IEnumerable<Category> GetAll()
+        {
+            var result = new List<Category>();
+
+            try
+            {
+                using (var ctx = _dbContextScopeFactory.CreateReadOnly())
+                {
+                    result = _categoryRepo.GetAll().OrderBy(x => x.Name).ToList();
+                }
+            }
+            catch (Exception e)
+            {
+                logger.Error(e.Message);
+            }
+
+            return result;
+        }
+
         public AnexGRIDResponde GetAll(AnexGRID grid)
         {
             grid.Inicializar();
@@ -123,7 +142,7 @@ namespace Service
 
                     var query = (
                         from c in categories
-                        select new CourseForGridView
+                        select new CategoryForGridView
                         {
                             Id = c.Id,
                             Icon = c.Icon,
@@ -239,26 +258,6 @@ namespace Service
             }
             catch (Exception e)
             {
-                logger.Error(e.Message);
-            }
-
-            return result;
-        }
-
-        public IEnumerable<Category> GetAll()
-        {
-            var result = new List<Category>();
-
-            try
-            {
-                using (var ctx = _dbContextScopeFactory.CreateReadOnly())
-                {
-                    result = _categoryRepo.GetAll().OrderBy(x => x.Name).ToList();
-                }
-            }
-            catch (Exception e)
-            {
-
                 logger.Error(e.Message);
             }
 

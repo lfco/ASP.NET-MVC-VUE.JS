@@ -1,31 +1,8 @@
-﻿<ul class="list-group">
-    @for (var h = 1; h <= 4; h++)
-    {
-        <li class="list-group-item">
-            <div class="input-group">
-                <input type="text" class="form-control" value="Lección #@h" readonly>
-                <span class="input-group-btn">
-                    <button class="btn btn-danger" type="button" title="Eliminar">
-                        <i class="fa fa-trash"></i>
-                    </button>
-                    <button data-toggle="modal" data-target="#lesson-edit" class="btn btn-default" type="button" title="Editar">
-                        <i class="fa fa-edit"></i>
-                    </button>
-                </span>
-            </div>
-        </li>
-    }
-    <li class="list-group-item">
-        <div class="input-group">
-            <input type="text" class="form-control" placeholder="Nueva lección">
-            <span class="input-group-btn">
-                <button class="btn btn-default" type="button" title="Registrar">
-                    <i class="fa fa-plus"></i>
-                </button>
-            </span>
-        </div>
-    </li>
-</ul>
+﻿@model Course
+
+<div style="min-height:300px;">
+    <instructorlesson :id="@Model.Id"></instructorlesson>
+</div>
 
 <div class="modal fade" id="lesson-edit" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
     <div class="modal-dialog modal-lg" role="document">

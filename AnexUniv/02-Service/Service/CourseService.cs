@@ -1,22 +1,21 @@
 ﻿using Common;
 using Common.ProjectHelpers;
 using Model.Auth;
-using Model.Custom;
 using Model.Domain;
 using NLog;
 using Persistence.DbContextScope;
-using Persistence.DbContextScope.Extensions;
 using Persistence.Repository;
 using System;
-using System.Collections.Generic;
+using System.IO;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Web;
 
 namespace Service
 {
     public interface ICourseService
     {
+        ResponseHelper AddImage(int id, HttpPostedFileBase file);
+        Course Get(int id);
         ResponseHelper InsertOrUpdateBasicInformation(Course model);
     }
 
@@ -36,8 +35,8 @@ namespace Service
         )
         {
             _dbContextScopeFactory = dbContextScopeFactory;
-            _roleRepo = roleRepo;
             _courseRepo = courseRepo;
+            _roleRepo = roleRepo;
             _applicationUserRole = applicationUserRole;
         }
 
@@ -45,20 +44,20 @@ namespace Service
         {
             var rh = new ResponseHelper();
             var newRecord = false;
+
             try
             {
-                using (var cxt = _dbContextScopeFactory.Create())
+                using (var ctx = _dbContextScopeFactory.Create())
                 {
-                    // Si es mayor que 0 es un Update
                     if (model.Id > 0)
                     {
                         var originalCourse = _courseRepo.Single(x => x.Id == model.Id);
 
                         originalCourse.Name = model.Name;
-                        originalCourse.CategoryId = model.CategoryId;
-                        originalCourse.Slug = model.Slug;
-                        originalCourse.Price = model.Price;
                         originalCourse.Description = model.Description;
+                        originalCourse.Price = model.Price;
+                        originalCourse.CategoryId = model.CategoryId;
+                        originalCourse.Slug = Slug.Course(model.Id, model.Name);
 
                         _courseRepo.Update(originalCourse);
                     }
@@ -66,32 +65,33 @@ namespace Service
                     {
                         newRecord = true;
 
-                        model.UserAuthorId = CurrentUserHelper.Get.UserId;
+                        model.AuthorId = CurrentUserHelper.Get.UserId;
                         model.Status = Enums.Status.Pending;
                         model.Image1 = "assets/images/courses/no-image.jpg";
                         model.Image2 = model.Image1;
 
-                        var role = _roleRepo.SingleOrDefault(x => 
-                        x.Name == RoleNames.Teacher);
+                        var role = _roleRepo.SingleOrDefault(x =>
+                            x.Name == RoleNames.Teacher
+                        );
 
                         var hasRole = _applicationUserRole.Find(x =>
-                        x.UserId == model.UserAuthorId 
-                        && x.RoleId == role.Id
+                            x.UserId == model.AuthorId
+                            && x.RoleId == role.Id
                         ).Any();
 
                         if (!hasRole)
                         {
                             _applicationUserRole.Insert(new ApplicationUserRole
                             {
-                                UserId = model.UserAuthorId,
+                                UserId = model.AuthorId,
                                 RoleId = role.Id
-
                             });
                         }
 
                         _courseRepo.Insert(model);
                     }
-                    cxt.SaveChanges();
+
+                    ctx.SaveChanges();
                 }
 
                 if (newRecord)
@@ -101,7 +101,7 @@ namespace Service
                         // Obtenemos el registro insertado
                         var originalCourse = _courseRepo.Single(x => x.Id == model.Id);
 
-                        originalCourse.Slug = Slug.Category(model.Id, model.Name);
+                        originalCourse.Slug = Slug.Course(model.Id, model.Name);
 
                         // Actualizamos
                         _courseRepo.Update(originalCourse);
@@ -111,6 +111,71 @@ namespace Service
                 }
 
                 rh.SetResponse(true);
+            }
+            catch (Exception e)
+            {
+                logger.Error(e.Message);
+                rh.SetResponse(false, e.Message);
+            }
+
+            return rh;
+        }
+
+        public Course Get(int id)
+        {
+            var result = new Course();
+
+            try
+            {
+                using (var ctx = _dbContextScopeFactory.CreateReadOnly())
+                {
+                    result = _courseRepo.Single(x => x.Id == id);
+                }
+            }
+            catch (Exception e)
+            {
+                logger.Error(e.Message);
+            }
+
+            return result;
+        }
+
+        public ResponseHelper AddImage(int id, HttpPostedFileBase file)
+        {
+            var rh = new ResponseHelper();
+
+            try
+            {
+                // Creamos la ruta
+                var path = DirectoryPath.CourseImage(id);
+                DirectoryPath.Create(path);
+
+                // Ahora vamos a crear los nombres para el archivo
+                var fileName = path
+                               + DateTime.Now.ToString("yyyyMMddHHmmss")
+                               + Path.GetExtension(file.FileName);
+
+                // La ruta completa
+                var fullPath = HttpContext.Current.Server.MapPath("~/" + fileName);
+
+                // La ruta donde lo vamos guardar
+                file.SaveAs(fullPath);
+
+                using (var ctx = _dbContextScopeFactory.Create())
+                {
+                    // Obtenemos el curso
+                    var originalCourse = _courseRepo.Single(x => x.Id == id);
+
+                    // Seteamos la imagen
+                    originalCourse.Image1 = fileName;
+                    originalCourse.Image2 = fileName;
+
+                    _courseRepo.Update(originalCourse);
+
+                    ctx.SaveChanges();
+                    rh.SetResponse(true);
+                    rh.Result = fileName;
+                }
             }
             catch (Exception e)
             {

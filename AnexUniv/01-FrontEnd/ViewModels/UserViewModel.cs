@@ -12,9 +12,11 @@ namespace FrontEnd.ViewModels
         public string Id { get; set; }
 
         [Required]
+        [Display(Name = "Nombre")]
         public string Name { get; set; }
 
         [Required]
+        [Display(Name = "Apellido")]
         public string LastName { get; set; }
     }
 }

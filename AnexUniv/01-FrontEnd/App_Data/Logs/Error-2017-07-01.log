@@ -1,0 +1,20 @@
+[ERROR] 01:11:40.247:
+- Service.UserService.GetAll (Line #113)
+- The method 'Skip' is only supported for sorted input in LINQ to Entities. The method 'OrderBy' must be called before the method 'Skip'.
+ 
+[ERROR] 03:34:55.071:
+- Service.CategoryService.InsertOrUpdate (Line #0)
+- Referencia a objeto no establecida como instancia de un objeto.
+ 
+[ERROR] 03:35:00.153:
+- Service.CategoryService.InsertOrUpdate (Line #0)
+- The cast to value type 'System.Int32' failed because the materialized value is null. Either the result type's generic parameter or the query must use a nullable type.
+ 
+[ERROR] 03:38:32.989:
+- Service.CategoryService.InsertOrUpdate (Line #91)
+- The cast to value type 'System.Int32' failed because the materialized value is null. Either the result type's generic parameter or the query must use a nullable type.
+ 
+[ERROR] 03:52:50.120:
+- Service.CategoryService.InsertOrUpdate (Line #86)
+- Referencia a objeto no establecida como instancia de un objeto.
+ 

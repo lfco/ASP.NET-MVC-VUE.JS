@@ -17,11 +17,11 @@
                 <ul class="dropdown-menu">
                     @if (user.IsTeacher())
                     {
-                    <li>
-                        <a href="@Url.Action("Index", "instructor")">
-                            Panel de instructor
-                        </a>
-                    </li>
+                        <li>
+                            <a href="@Url.Action("Index", "instructor")">
+                                Panel de instructor
+                            </a>
+                        </li>
                     }
                     <li>
                         <a href="@Url.Action("CreateCourse", "Instructor")">
@@ -37,13 +37,13 @@
                 <ul class="dropdown-menu">
                     @if (user.IsAdmin())
                     {
-                    <li>
-                        <a href="@Url.Action("index", "panel")">
-                            Panel de adminstración
-                        </a>
-                    </li>
+                        <li>
+                            <a href="@Url.Action("index", "panel")">
+                                Panel de adminstración
+                            </a>
+                        </li>
+                        <li class="divider"></li>
                     }
-                    <li class="divider"></li>
                     <li>
                         <a href="@Url.Action("Get", "Account")">
                             Actualizar mis datos

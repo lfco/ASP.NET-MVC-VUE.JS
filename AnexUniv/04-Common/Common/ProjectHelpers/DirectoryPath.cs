@@ -22,11 +22,23 @@ namespace Common.ProjectHelpers
             );
         }
 
+        public static string CourseImage(int id)
+        {
+            return string.Format(
+                BasePath + "courses/{0}/image/", id
+            );
+        }
+
         public static string Category(int id)
         {
             return string.Format(
                 BasePath + "categories/{0}/", id
             );
+        }
+
+        public static void Create(string path)
+        {
+            Directory.CreateDirectory(HttpContext.Current.Server.MapPath("~/" + path));
         }
 
         public static void Create(int id)

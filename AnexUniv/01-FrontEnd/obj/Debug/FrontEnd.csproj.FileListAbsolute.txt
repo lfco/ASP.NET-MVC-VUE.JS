@@ -1,205 +1,1516 @@
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\roslyn\csc.exe
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\roslyn\csc.exe.config
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\roslyn\csc.rsp
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\roslyn\csi.exe
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\roslyn\csi.rsp
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CSharp.Core.targets
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.VisualBasic.Core.targets
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\roslyn\System.AppContext.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\roslyn\System.Collections.Immutable.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\roslyn\System.Diagnostics.StackTrace.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\roslyn\System.IO.FileSystem.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\roslyn\System.IO.FileSystem.Primitives.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\roslyn\System.Reflection.Metadata.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\roslyn\vbc.exe
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\roslyn\vbc.exe.config
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\roslyn\vbc.rsp
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\roslyn\VBCSCompiler.exe
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\roslyn\VBCSCompiler.exe.config
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\NLog.config
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\FrontEnd.dll.config
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\FrontEnd.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\FrontEnd.pdb
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\Auth.Service.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\Common.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\EntityFramework.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\EntityFramework.SqlServer.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\LightInject.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Core.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Owin.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Host.SystemWeb.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Cookies.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Facebook.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Google.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.OAuth.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Twitter.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\Microsoft.Web.Infrastructure.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\Model.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\Newtonsoft.Json.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\NLog.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\Owin.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\Persistence.DatabaseContext.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\Service.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\System.Web.Helpers.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\System.Web.Mvc.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\System.Web.Razor.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Deployment.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Razor.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\Persistence.DbContextScope.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\Persistence.Repository.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\EntityFramework.DynamicFilters.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\Auth.Service.pdb
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\Service.pdb
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\Common.pdb
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\Model.pdb
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\Persistence.DatabaseContext.pdb
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\LightInject.pdb
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\LightInject.xml
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\Newtonsoft.Json.xml
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\NLog.xml
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\System.Web.Helpers.xml
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\System.Web.Mvc.xml
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\System.Web.Razor.xml
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.xml
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Deployment.xml
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Razor.xml
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\EntityFramework.xml
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\EntityFramework.SqlServer.xml
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Core.xml
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Owin.xml
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.xml
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Host.SystemWeb.xml
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.xml
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Facebook.xml
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Cookies.xml
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.OAuth.xml
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Google.xml
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Twitter.xml
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\Persistence.DbContextScope.pdb
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\bin\Persistence.Repository.pdb
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\obj\Debug\FrontEnd.csprojResolveAssemblyReference.cache
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\obj\Debug\FrontEnd.dll
-D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\01-FrontEnd\obj\Debug\FrontEnd.pdb
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\roslyn\csc.exe
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\roslyn\csc.exe.config
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\roslyn\csc.rsp
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\roslyn\csi.exe
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\roslyn\csi.rsp
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\roslyn\System.AppContext.dll
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\roslyn\System.Diagnostics.StackTrace.dll
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\roslyn\System.IO.FileSystem.dll
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\roslyn\System.IO.FileSystem.Primitives.dll
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\roslyn\vbc.exe
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\roslyn\vbc.exe.config
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\roslyn\vbc.rsp
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\roslyn\VBCSCompiler.exe
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\NLog.config
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\FrontEnd.dll.config
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\FrontEnd.dll
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\FrontEnd.pdb
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\Auth.Service.dll
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\Common.dll
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\EntityFramework.dll
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\EntityFramework.SqlServer.dll
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\LightInject.dll
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Core.dll
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Owin.dll
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.dll
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Host.SystemWeb.dll
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Cookies.dll
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.dll
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Facebook.dll
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Google.dll
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.OAuth.dll
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Twitter.dll
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\Model.dll
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\Newtonsoft.Json.dll
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\NLog.dll
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\Owin.dll
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\Persistence.DatabaseContext.dll
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\Service.dll
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\System.Web.Helpers.dll
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\System.Web.Mvc.dll
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\System.Web.Razor.dll
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Deployment.dll
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.dll
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Razor.dll
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\Persistence.DbContextScope.dll
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\Persistence.Repository.dll
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\EntityFramework.DynamicFilters.dll
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\Auth.Service.pdb
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\Auth.Service.dll.config
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\Service.pdb
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\Service.dll.config
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\Common.pdb
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\Model.pdb
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\Persistence.DatabaseContext.pdb
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\LightInject.pdb
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\LightInject.xml
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\Newtonsoft.Json.xml
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\NLog.xml
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\System.Web.Helpers.xml
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\System.Web.Mvc.xml
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\System.Web.Razor.xml
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.xml
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Deployment.xml
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Razor.xml
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\EntityFramework.xml
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\EntityFramework.SqlServer.xml
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Core.xml
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Owin.xml
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.xml
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Host.SystemWeb.xml
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.xml
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Facebook.xml
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Cookies.xml
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.OAuth.xml
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Google.xml
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Twitter.xml
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\Persistence.DbContextScope.pdb
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\bin\Persistence.Repository.pdb
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\obj\Debug\FrontEnd.csprojAssemblyReference.cache
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\obj\Debug\FrontEnd.csproj.CoreCompileInputs.cache
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\obj\Debug\FrontEnd.csproj.CopyComplete
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\obj\Debug\FrontEnd.dll
-C:\Users\Lethal\source\repos\AnexUniv\01-FrontEnd\obj\Debug\FrontEnd.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\obj\Debug\FrontEnd.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\roslyn\csc.exe
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\roslyn\csc.exe.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\roslyn\csc.rsp
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\roslyn\csi.exe
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\roslyn\csi.rsp
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\roslyn\System.AppContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\roslyn\System.Collections.Immutable.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\roslyn\System.IO.FileSystem.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\roslyn\System.Reflection.Metadata.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\roslyn\vbc.exe
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\roslyn\vbc.exe.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\roslyn\vbc.rsp
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\roslyn\VBCSCompiler.exe
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\roslyn\VBCSCompiler.exe.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\NLog.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\FrontEnd.dll.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\FrontEnd.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\FrontEnd.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\Auth.Service.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\Common.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\LightInject.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Google.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\Microsoft.Web.Infrastructure.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\Model.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\Newtonsoft.Json.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\NLog.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\Persistence.DatabaseContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\Service.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\System.Web.Helpers.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\System.Web.Mvc.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\System.Web.Razor.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Deployment.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Razor.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\Persistence.DbContextScope.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\Persistence.Repository.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\EntityFramework.DynamicFilters.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\Auth.Service.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\Auth.Service.dll.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\Service.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\Service.dll.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\Common.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\Model.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\Persistence.DatabaseContext.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\LightInject.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\LightInject.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\Newtonsoft.Json.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\NLog.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\System.Web.Helpers.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\System.Web.Mvc.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\System.Web.Razor.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Deployment.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Razor.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Google.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\Persistence.DbContextScope.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\bin\Persistence.Repository.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\obj\Debug\FrontEnd.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\07. Actualizar Datos\AnexUniv\01-FrontEnd\obj\Debug\FrontEnd.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\roslyn\csc.exe
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\roslyn\csc.exe.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\roslyn\csc.rsp
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\roslyn\csi.exe
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\roslyn\csi.rsp
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\roslyn\System.AppContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\roslyn\System.Collections.Immutable.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\roslyn\System.IO.FileSystem.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\roslyn\System.Reflection.Metadata.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\roslyn\vbc.exe
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\roslyn\vbc.exe.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\roslyn\vbc.rsp
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\roslyn\VBCSCompiler.exe
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\roslyn\VBCSCompiler.exe.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\NLog.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\FrontEnd.dll.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\FrontEnd.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\FrontEnd.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\Auth.Service.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\Common.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\LightInject.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Google.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\Microsoft.Web.Infrastructure.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\Model.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\Newtonsoft.Json.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\NLog.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\Persistence.DatabaseContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\Service.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\System.Web.Helpers.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\System.Web.Mvc.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\System.Web.Razor.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Deployment.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Razor.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\Persistence.DbContextScope.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\Persistence.Repository.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\EntityFramework.DynamicFilters.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\Auth.Service.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\Auth.Service.dll.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\Service.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\Service.dll.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\Common.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\Model.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\Persistence.DatabaseContext.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\LightInject.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\LightInject.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\Newtonsoft.Json.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\NLog.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\System.Web.Helpers.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\System.Web.Mvc.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\System.Web.Razor.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Deployment.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Razor.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Google.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\Persistence.DbContextScope.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\bin\Persistence.Repository.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\obj\Debug\FrontEnd.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\obj\Debug\FrontEnd.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\08. Autorizacion & Roles\AnexUniv\01-FrontEnd\obj\Debug\FrontEnd.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\roslyn\csc.exe
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\roslyn\csc.exe.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\roslyn\csc.rsp
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\roslyn\csi.exe
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\roslyn\csi.rsp
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\roslyn\System.AppContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\roslyn\System.Collections.Immutable.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\roslyn\System.IO.FileSystem.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\roslyn\System.Reflection.Metadata.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\roslyn\vbc.exe
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\roslyn\vbc.exe.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\roslyn\vbc.rsp
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\roslyn\VBCSCompiler.exe
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\roslyn\VBCSCompiler.exe.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\NLog.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\FrontEnd.dll.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\FrontEnd.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\FrontEnd.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\Auth.Service.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\Common.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\LightInject.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Google.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\Microsoft.Web.Infrastructure.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\Model.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\Newtonsoft.Json.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\NLog.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\Persistence.DatabaseContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\Service.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\System.Web.Helpers.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\System.Web.Mvc.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\System.Web.Razor.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Deployment.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Razor.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\Persistence.DbContextScope.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\Persistence.Repository.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\EntityFramework.DynamicFilters.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\Auth.Service.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\Auth.Service.dll.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\Service.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\Service.dll.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\Common.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\Model.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\Persistence.DatabaseContext.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\LightInject.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\LightInject.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\Newtonsoft.Json.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\NLog.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\System.Web.Helpers.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\System.Web.Mvc.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\System.Web.Razor.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Deployment.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Razor.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Google.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\Persistence.DbContextScope.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\bin\Persistence.Repository.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\obj\Debug\FrontEnd.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\obj\Debug\FrontEnd.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\09. Listado de usuarios\AnexUniv\01-FrontEnd\obj\Debug\FrontEnd.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\roslyn\csc.exe
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\roslyn\csc.exe.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\roslyn\csc.rsp
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\roslyn\csi.exe
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\roslyn\csi.rsp
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\roslyn\System.AppContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\roslyn\System.Collections.Immutable.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\roslyn\System.IO.FileSystem.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\roslyn\System.Reflection.Metadata.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\roslyn\vbc.exe
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\roslyn\vbc.exe.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\roslyn\vbc.rsp
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\roslyn\VBCSCompiler.exe
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\roslyn\VBCSCompiler.exe.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\NLog.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\FrontEnd.dll.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\FrontEnd.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\FrontEnd.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\Auth.Service.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\Common.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\LightInject.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Google.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Web.Infrastructure.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\Model.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\Newtonsoft.Json.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\NLog.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\Persistence.DatabaseContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\Service.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\System.Web.Helpers.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\System.Web.Mvc.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\System.Web.Razor.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Deployment.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Razor.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\Persistence.DbContextScope.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\Persistence.Repository.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\EntityFramework.DynamicFilters.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\Auth.Service.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\Auth.Service.dll.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\Service.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\Service.dll.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\Common.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\Model.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\Persistence.DatabaseContext.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\LightInject.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\LightInject.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\Newtonsoft.Json.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\NLog.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\System.Web.Helpers.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\System.Web.Mvc.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\System.Web.Razor.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Deployment.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Razor.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Google.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\Persistence.DbContextScope.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\bin\Persistence.Repository.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\obj\Debug\FrontEnd.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\obj\Debug\FrontEnd.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\10. Mantenimiento categoria\AnexUniv\01-FrontEnd\obj\Debug\FrontEnd.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\roslyn\csc.exe
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\roslyn\csc.exe.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\roslyn\csc.rsp
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\roslyn\csi.exe
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\roslyn\csi.rsp
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\roslyn\System.AppContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\roslyn\System.Collections.Immutable.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\roslyn\System.IO.FileSystem.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\roslyn\System.Reflection.Metadata.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\roslyn\vbc.exe
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\roslyn\vbc.exe.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\roslyn\vbc.rsp
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\roslyn\VBCSCompiler.exe
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\roslyn\VBCSCompiler.exe.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\NLog.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\FrontEnd.dll.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\FrontEnd.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\FrontEnd.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\Auth.Service.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\Common.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\LightInject.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Google.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Web.Infrastructure.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\Model.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\Newtonsoft.Json.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\NLog.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\Persistence.DatabaseContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\Service.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\System.Web.Helpers.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\System.Web.Mvc.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\System.Web.Razor.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Deployment.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Razor.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\Persistence.DbContextScope.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\Persistence.Repository.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\EntityFramework.DynamicFilters.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\Auth.Service.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\Auth.Service.dll.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\Service.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\Service.dll.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\Common.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\Model.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\Persistence.DatabaseContext.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\LightInject.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\LightInject.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\Newtonsoft.Json.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\NLog.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\System.Web.Helpers.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\System.Web.Mvc.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\System.Web.Razor.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Deployment.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Razor.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Google.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\Persistence.DbContextScope.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\bin\Persistence.Repository.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\obj\Debug\FrontEnd.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\obj\Debug\FrontEnd.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\11. Listado categoria\AnexUniv\01-FrontEnd\obj\Debug\FrontEnd.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\roslyn\csc.exe
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\roslyn\csc.exe.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\roslyn\csc.rsp
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\roslyn\csi.exe
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\roslyn\csi.rsp
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\roslyn\System.AppContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\roslyn\System.Collections.Immutable.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\roslyn\System.IO.FileSystem.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\roslyn\System.Reflection.Metadata.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\roslyn\vbc.exe
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\roslyn\vbc.exe.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\roslyn\vbc.rsp
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\roslyn\VBCSCompiler.exe
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\roslyn\VBCSCompiler.exe.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\NLog.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\FrontEnd.dll.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\FrontEnd.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\FrontEnd.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\Auth.Service.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\Common.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\LightInject.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Google.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Web.Infrastructure.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\Model.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\Newtonsoft.Json.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\NLog.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\Persistence.DatabaseContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\Service.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\System.Web.Helpers.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\System.Web.Mvc.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\System.Web.Razor.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Deployment.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Razor.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\Persistence.DbContextScope.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\Persistence.Repository.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\EntityFramework.DynamicFilters.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\Auth.Service.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\Auth.Service.dll.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\Service.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\Service.dll.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\Common.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\Model.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\Persistence.DatabaseContext.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\LightInject.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\LightInject.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\Newtonsoft.Json.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\NLog.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\System.Web.Helpers.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\System.Web.Mvc.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\System.Web.Razor.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Deployment.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Razor.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Google.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\Persistence.DbContextScope.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\bin\Persistence.Repository.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\obj\Debug\FrontEnd.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\obj\Debug\FrontEnd.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\12. Update categoria\AnexUniv\01-FrontEnd\obj\Debug\FrontEnd.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\roslyn\csc.exe
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\roslyn\csc.exe.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\roslyn\csc.rsp
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\roslyn\csi.exe
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\roslyn\csi.rsp
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\roslyn\System.AppContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\roslyn\System.Collections.Immutable.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\roslyn\System.IO.FileSystem.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\roslyn\System.Reflection.Metadata.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\roslyn\vbc.exe
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\roslyn\vbc.exe.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\roslyn\vbc.rsp
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\roslyn\VBCSCompiler.exe
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\roslyn\VBCSCompiler.exe.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\NLog.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\FrontEnd.dll.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\FrontEnd.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\FrontEnd.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\Auth.Service.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\Common.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\LightInject.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Google.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Web.Infrastructure.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\Model.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\Newtonsoft.Json.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\NLog.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\Persistence.DatabaseContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\Service.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\System.Web.Helpers.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\System.Web.Mvc.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\System.Web.Razor.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Deployment.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Razor.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\Persistence.DbContextScope.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\Persistence.Repository.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\EntityFramework.DynamicFilters.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\Auth.Service.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\Service.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\Common.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\Model.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\Persistence.DatabaseContext.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\LightInject.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\LightInject.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\Newtonsoft.Json.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\NLog.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\System.Web.Helpers.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\System.Web.Mvc.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\System.Web.Razor.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Deployment.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Razor.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Google.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\Persistence.DbContextScope.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\bin\Persistence.Repository.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\obj\Debug\FrontEnd.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\obj\Debug\FrontEnd.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\13. Delete categoria\AnexUniv\01-FrontEnd\obj\Debug\FrontEnd.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\roslyn\csc.exe
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\roslyn\csc.exe.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\roslyn\csc.rsp
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\roslyn\csi.exe
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\roslyn\csi.rsp
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\roslyn\System.AppContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\roslyn\System.Collections.Immutable.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\roslyn\System.IO.FileSystem.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\roslyn\System.Reflection.Metadata.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\roslyn\vbc.exe
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\roslyn\vbc.exe.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\roslyn\vbc.rsp
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\roslyn\VBCSCompiler.exe
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\roslyn\VBCSCompiler.exe.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\NLog.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\FrontEnd.dll.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\FrontEnd.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\FrontEnd.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\Auth.Service.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\Common.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\LightInject.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Google.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Web.Infrastructure.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\Model.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\Newtonsoft.Json.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\NLog.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\Persistence.DatabaseContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\Service.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\System.Web.Helpers.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\System.Web.Mvc.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\System.Web.Razor.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Deployment.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Razor.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\Persistence.DbContextScope.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\Persistence.Repository.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\EntityFramework.DynamicFilters.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\Auth.Service.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\Service.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\Common.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\Model.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\Persistence.DatabaseContext.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\LightInject.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\LightInject.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\Newtonsoft.Json.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\NLog.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\System.Web.Helpers.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\System.Web.Mvc.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\System.Web.Razor.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Deployment.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Razor.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Google.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\Persistence.DbContextScope.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\bin\Persistence.Repository.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\obj\Debug\FrontEnd.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\obj\Debug\FrontEnd.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\14. Menu categoria\AnexUniv\01-FrontEnd\obj\Debug\FrontEnd.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\roslyn\csc.exe
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\roslyn\csc.exe.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\roslyn\csc.rsp
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\roslyn\csi.exe
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\roslyn\csi.rsp
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\roslyn\System.AppContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\roslyn\System.Collections.Immutable.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\roslyn\System.IO.FileSystem.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\roslyn\System.Reflection.Metadata.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\roslyn\vbc.exe
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\roslyn\vbc.exe.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\roslyn\vbc.rsp
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\roslyn\VBCSCompiler.exe
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\roslyn\VBCSCompiler.exe.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\NLog.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\FrontEnd.dll.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\FrontEnd.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\FrontEnd.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\Auth.Service.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\Common.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\LightInject.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Google.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\Microsoft.Web.Infrastructure.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\Model.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\Newtonsoft.Json.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\NLog.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\Persistence.DatabaseContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\Service.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\System.Web.Helpers.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\System.Web.Mvc.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\System.Web.Razor.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Deployment.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Razor.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\Persistence.DbContextScope.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\Persistence.Repository.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\EntityFramework.DynamicFilters.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\Auth.Service.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\Auth.Service.dll.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\Service.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\Service.dll.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\Common.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\Model.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\Persistence.DatabaseContext.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\LightInject.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\LightInject.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\Newtonsoft.Json.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\NLog.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\System.Web.Helpers.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\System.Web.Mvc.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\System.Web.Razor.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Deployment.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Razor.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Google.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\Persistence.DbContextScope.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\bin\Persistence.Repository.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\obj\Debug\FrontEnd.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\obj\Debug\FrontEnd.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\15. Creando un curso\AnexUniv\01-FrontEnd\obj\Debug\FrontEnd.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\roslyn\csc.exe
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\roslyn\csc.exe.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\roslyn\csc.rsp
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\roslyn\csi.exe
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\roslyn\csi.rsp
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\roslyn\System.AppContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\roslyn\System.Collections.Immutable.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\roslyn\System.IO.FileSystem.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\roslyn\System.Reflection.Metadata.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\roslyn\vbc.exe
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\roslyn\vbc.exe.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\roslyn\vbc.rsp
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\roslyn\VBCSCompiler.exe
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\roslyn\VBCSCompiler.exe.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\NLog.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\FrontEnd.dll.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\FrontEnd.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\FrontEnd.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\Auth.Service.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\Common.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\LightInject.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Google.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\Microsoft.Web.Infrastructure.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\Model.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\Newtonsoft.Json.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\NLog.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\Persistence.DatabaseContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\Service.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\System.Web.Helpers.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\System.Web.Mvc.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\System.Web.Razor.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Deployment.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Razor.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\Persistence.DbContextScope.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\Persistence.Repository.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\EntityFramework.DynamicFilters.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\Auth.Service.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\Auth.Service.dll.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\Service.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\Service.dll.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\Common.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\Model.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\Persistence.DatabaseContext.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\LightInject.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\LightInject.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\Newtonsoft.Json.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\NLog.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\System.Web.Helpers.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\System.Web.Mvc.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\System.Web.Razor.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Deployment.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Razor.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Google.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\Persistence.DbContextScope.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\bin\Persistence.Repository.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\obj\Debug\FrontEnd.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\obj\Debug\FrontEnd.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\16. Listando\AnexUniv\01-FrontEnd\obj\Debug\FrontEnd.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\roslyn\csc.exe
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\roslyn\csc.exe.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\roslyn\csc.rsp
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\roslyn\csi.exe
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\roslyn\csi.rsp
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\roslyn\System.AppContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\roslyn\System.Collections.Immutable.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\roslyn\System.IO.FileSystem.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\roslyn\System.Reflection.Metadata.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\roslyn\vbc.exe
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\roslyn\vbc.exe.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\roslyn\vbc.rsp
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\roslyn\VBCSCompiler.exe
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\roslyn\VBCSCompiler.exe.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\NLog.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\FrontEnd.dll.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\FrontEnd.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\FrontEnd.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\Auth.Service.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\Common.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\LightInject.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Google.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\Microsoft.Web.Infrastructure.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\Model.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\Newtonsoft.Json.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\NLog.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\Persistence.DatabaseContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\Service.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\System.Web.Helpers.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\System.Web.Mvc.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\System.Web.Razor.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Deployment.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Razor.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\Persistence.DbContextScope.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\Persistence.Repository.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\EntityFramework.DynamicFilters.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\Auth.Service.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\Auth.Service.dll.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\Service.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\Service.dll.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\Common.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\Model.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\Persistence.DatabaseContext.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\LightInject.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\LightInject.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\Newtonsoft.Json.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\NLog.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\System.Web.Helpers.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\System.Web.Mvc.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\System.Web.Razor.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Deployment.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Razor.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Google.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\Persistence.DbContextScope.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\bin\Persistence.Repository.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\obj\Debug\FrontEnd.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\obj\Debug\FrontEnd.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\17. Widget Instructor\AnexUniv\01-FrontEnd\obj\Debug\FrontEnd.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\roslyn\csc.exe
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\roslyn\csc.exe.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\roslyn\csc.rsp
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\roslyn\csi.exe
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\roslyn\csi.rsp
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\roslyn\System.AppContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\roslyn\System.Collections.Immutable.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\roslyn\System.IO.FileSystem.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\roslyn\System.Reflection.Metadata.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\roslyn\vbc.exe
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\roslyn\vbc.exe.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\roslyn\vbc.rsp
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\roslyn\VBCSCompiler.exe
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\roslyn\VBCSCompiler.exe.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\NLog.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\FrontEnd.dll.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\FrontEnd.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\FrontEnd.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\Auth.Service.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\Common.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\LightInject.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Google.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\Microsoft.Web.Infrastructure.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\Model.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\Newtonsoft.Json.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\NLog.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\Persistence.DatabaseContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\Service.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\System.Web.Helpers.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\System.Web.Mvc.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\System.Web.Razor.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Deployment.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Razor.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\Persistence.DbContextScope.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\Persistence.Repository.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\EntityFramework.DynamicFilters.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\Auth.Service.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\Auth.Service.dll.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\Service.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\Service.dll.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\Common.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\Model.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\Persistence.DatabaseContext.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\LightInject.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\LightInject.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\Newtonsoft.Json.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\NLog.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\System.Web.Helpers.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\System.Web.Mvc.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\System.Web.Razor.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Deployment.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Razor.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Google.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\Persistence.DbContextScope.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\bin\Persistence.Repository.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\obj\Debug\FrontEnd.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\obj\Debug\FrontEnd.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\18. Actualizar info basica\AnexUniv\01-FrontEnd\obj\Debug\FrontEnd.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\roslyn\csc.exe
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\roslyn\csc.exe.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\roslyn\csc.rsp
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\roslyn\csi.exe
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\roslyn\csi.rsp
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\roslyn\System.AppContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\roslyn\System.Collections.Immutable.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\roslyn\System.IO.FileSystem.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\roslyn\System.Reflection.Metadata.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\roslyn\vbc.exe
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\roslyn\vbc.exe.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\roslyn\vbc.rsp
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\roslyn\VBCSCompiler.exe
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\roslyn\VBCSCompiler.exe.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\NLog.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\FrontEnd.dll.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\FrontEnd.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\FrontEnd.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\Auth.Service.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\Common.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\LightInject.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Google.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\Microsoft.Web.Infrastructure.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\Model.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\Newtonsoft.Json.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\NLog.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\Persistence.DatabaseContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\Service.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\System.Web.Helpers.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\System.Web.Mvc.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\System.Web.Razor.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Deployment.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Razor.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\Persistence.DbContextScope.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\Persistence.Repository.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\EntityFramework.DynamicFilters.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\Auth.Service.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\Auth.Service.dll.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\Service.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\Service.dll.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\Common.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\Model.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\Persistence.DatabaseContext.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\LightInject.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\LightInject.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\Newtonsoft.Json.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\NLog.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\System.Web.Helpers.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\System.Web.Mvc.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\System.Web.Razor.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Deployment.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Razor.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Google.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\Persistence.DbContextScope.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\bin\Persistence.Repository.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\obj\Debug\FrontEnd.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\obj\Debug\FrontEnd.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\19. Imagen destacada\AnexUniv\01-FrontEnd\obj\Debug\FrontEnd.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\roslyn\csc.exe
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\roslyn\csc.exe.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\roslyn\csc.rsp
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\roslyn\csi.exe
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\roslyn\csi.rsp
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\roslyn\System.AppContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\roslyn\System.Collections.Immutable.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\roslyn\System.IO.FileSystem.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\roslyn\System.Reflection.Metadata.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\roslyn\vbc.exe
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\roslyn\vbc.exe.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\roslyn\vbc.rsp
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\roslyn\VBCSCompiler.exe
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\roslyn\VBCSCompiler.exe.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\NLog.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\FrontEnd.dll.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\FrontEnd.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\FrontEnd.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\Auth.Service.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\Common.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\LightInject.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Google.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\Microsoft.Web.Infrastructure.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\Model.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\Newtonsoft.Json.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\NLog.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\Persistence.DatabaseContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\Service.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\System.Web.Helpers.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\System.Web.Mvc.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\System.Web.Razor.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Deployment.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Razor.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\Persistence.DbContextScope.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\Persistence.Repository.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\EntityFramework.DynamicFilters.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\Auth.Service.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\Auth.Service.dll.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\Service.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\Service.dll.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\Common.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\Model.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\Persistence.DatabaseContext.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\LightInject.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\LightInject.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\Newtonsoft.Json.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\NLog.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\System.Web.Helpers.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\System.Web.Mvc.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\System.Web.Razor.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Deployment.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Razor.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Google.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\Persistence.DbContextScope.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\bin\Persistence.Repository.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\obj\Debug\FrontEnd.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\obj\Debug\FrontEnd.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\20. Creando una lección\AnexUniv\01-FrontEnd\obj\Debug\FrontEnd.pdb
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\roslyn\csc.exe
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\roslyn\csc.exe.config
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\roslyn\csc.rsp
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\roslyn\csi.exe
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\roslyn\csi.rsp
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\roslyn\System.AppContext.dll
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\roslyn\vbc.exe
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\roslyn\vbc.exe.config
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\roslyn\vbc.rsp
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\NLog.config
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\FrontEnd.dll.config
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\FrontEnd.dll
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\FrontEnd.pdb
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\Auth.Service.dll
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\Common.dll
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\EntityFramework.dll
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\EntityFramework.SqlServer.dll
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\LightInject.dll
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.dll
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.dll
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\Model.dll
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\Newtonsoft.Json.dll
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\NLog.dll
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\Owin.dll
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\Persistence.DatabaseContext.dll
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\Service.dll
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\System.Web.Helpers.dll
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\System.Web.Mvc.dll
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\System.Web.Razor.dll
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.dll
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\Persistence.DbContextScope.dll
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\Persistence.Repository.dll
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\EntityFramework.DynamicFilters.dll
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\Auth.Service.pdb
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\Auth.Service.dll.config
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\Service.pdb
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\Service.dll.config
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\Common.pdb
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\Model.pdb
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\Persistence.DatabaseContext.pdb
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\LightInject.pdb
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\LightInject.xml
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\Newtonsoft.Json.xml
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\NLog.xml
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\System.Web.Helpers.xml
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\System.Web.Mvc.xml
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\System.Web.Razor.xml
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.xml
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\EntityFramework.xml
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\EntityFramework.SqlServer.xml
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.xml
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.xml
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\Persistence.DbContextScope.pdb
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\bin\Persistence.Repository.pdb
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\obj\Debug\FrontEnd.csprojAssemblyReference.cache
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\obj\Debug\FrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\obj\Debug\FrontEnd.csproj.CopyComplete
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\obj\Debug\FrontEnd.dll
+C:\Users\Lethal\Desktop\AnexUniv\01-FrontEnd\obj\Debug\FrontEnd.pdb
 C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\01-FrontEnd\bin\roslyn\csc.exe
 C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\01-FrontEnd\bin\roslyn\csc.exe.config
 C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\01-FrontEnd\bin\roslyn\csc.rsp
@@ -303,40 +1614,3 @@ C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\01-FrontEnd\obj\Debug\FrontEnd.cspr
 C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\01-FrontEnd\obj\Debug\FrontEnd.csproj.CopyComplete
 C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\01-FrontEnd\obj\Debug\FrontEnd.dll
 C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\01-FrontEnd\obj\Debug\FrontEnd.pdb
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\01-FrontEnd\bin\ejml-0.23.dll
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\01-FrontEnd\bin\IKVM.AWT.WinForms.dll
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\01-FrontEnd\bin\IKVM.OpenJDK.Beans.dll
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\01-FrontEnd\bin\IKVM.OpenJDK.Charsets.dll
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\01-FrontEnd\bin\IKVM.OpenJDK.Cldrdata.dll
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\01-FrontEnd\bin\IKVM.OpenJDK.Corba.dll
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\01-FrontEnd\bin\IKVM.OpenJDK.Core.dll
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\01-FrontEnd\bin\IKVM.OpenJDK.Jdbc.dll
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\01-FrontEnd\bin\IKVM.OpenJDK.Localedata.dll
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\01-FrontEnd\bin\IKVM.OpenJDK.Management.dll
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\01-FrontEnd\bin\IKVM.OpenJDK.Media.dll
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\01-FrontEnd\bin\IKVM.OpenJDK.Misc.dll
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\01-FrontEnd\bin\IKVM.OpenJDK.Naming.dll
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\01-FrontEnd\bin\IKVM.OpenJDK.Nashorn.dll
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\01-FrontEnd\bin\IKVM.OpenJDK.Remoting.dll
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\01-FrontEnd\bin\IKVM.OpenJDK.Security.dll
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\01-FrontEnd\bin\IKVM.OpenJDK.SwingAWT.dll
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\01-FrontEnd\bin\IKVM.OpenJDK.Text.dll
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\01-FrontEnd\bin\IKVM.OpenJDK.Tools.dll
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\01-FrontEnd\bin\IKVM.OpenJDK.Util.dll
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\01-FrontEnd\bin\IKVM.OpenJDK.XML.API.dll
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\01-FrontEnd\bin\IKVM.OpenJDK.XML.Bind.dll
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\01-FrontEnd\bin\IKVM.OpenJDK.XML.Crypto.dll
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\01-FrontEnd\bin\IKVM.OpenJDK.XML.Parse.dll
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\01-FrontEnd\bin\IKVM.OpenJDK.XML.Transform.dll
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\01-FrontEnd\bin\IKVM.OpenJDK.XML.WebServices.dll
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\01-FrontEnd\bin\IKVM.OpenJDK.XML.XPath.dll
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\01-FrontEnd\bin\IKVM.Runtime.dll
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\01-FrontEnd\bin\IKVM.Runtime.JNI.dll
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\01-FrontEnd\bin\javax.json.dll
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\01-FrontEnd\bin\joda-time.dll
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\01-FrontEnd\bin\jollyday.dll
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\01-FrontEnd\bin\protobuf.dll
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\01-FrontEnd\bin\slf4j-api.dll
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\01-FrontEnd\bin\slf4j-simple.dll
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\01-FrontEnd\bin\stanford-corenlp-3.9.2.dll
-C:\Projects\LFCO\ASP.NET-MVC-VUE.JS\AnexUniv\01-FrontEnd\bin\xom.dll

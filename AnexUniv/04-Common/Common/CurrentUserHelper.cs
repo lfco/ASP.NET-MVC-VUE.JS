@@ -17,18 +17,22 @@ namespace Common
         {
             Roles = new List<string>();
         }
+
         public bool IsAdmin()
         {
             return Roles.Contains(RoleNames.Admin);
         }
+
         public bool IsStudent()
         {
             return Roles.Contains(RoleNames.Student);
         }
+
         public bool IsTeacher()
         {
             return Roles.Contains(RoleNames.Teacher);
         }
+
         public bool IsUser()
         {
             return Roles.Contains(RoleNames.User);

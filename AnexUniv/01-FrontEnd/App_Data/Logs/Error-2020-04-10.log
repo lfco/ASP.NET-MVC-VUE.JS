@@ -1,0 +1,4 @@
+[ERROR] 22:28:18.236:
+- Auth.Service.ApplicationUserManager+<CreateWithDefaultRole>d__3.MoveNext (Line #103)
+- La secuencia no contiene elementos
+ 

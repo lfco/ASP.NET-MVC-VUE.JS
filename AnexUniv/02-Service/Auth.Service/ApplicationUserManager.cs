@@ -84,13 +84,13 @@ namespace Auth.Service
                     var userId = ctx.ApplicationUser.Single(x => x.Email == model.Email).Id;
 
                     // Obtener el Role
-                    var roleID = ctx.ApplicationRole.Single(x => x.Name == RoleNames.User).Id;
+                    var roleId = ctx.ApplicationRole.Single(x => x.Name == RoleNames.User).Id;
 
-                    //Registrar la relacion del role y el user
+                    // Registramos la relación del role con el user
                     ctx.Entry(new ApplicationUserRole
                     {
                         UserId = userId,
-                        RoleId = roleID
+                        RoleId = roleId
                     }).State = EntityState.Added;
 
                     ctx.SaveChanges();

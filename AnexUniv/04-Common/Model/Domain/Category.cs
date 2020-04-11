@@ -1,11 +1,8 @@
 ﻿using Common.CustomFilters;
 using Model.Helper;
-using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Model.Domain
 {
@@ -15,7 +12,6 @@ namespace Model.Domain
 
         [Required]
         public string Name { get; set; }
-
         public string Slug { get; set; }
         [Required]
         public string Icon { get; set; }

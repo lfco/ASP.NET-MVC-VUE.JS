@@ -10,8 +10,10 @@ namespace FrontEnd.App_Start
     {
         public static void Initialize()
         {
-            var properties = typeof(Parameters).GetProperties(BindingFlags.Public |
-                                                          BindingFlags.Static);
+            var properties = typeof(Parameters).GetProperties(
+                BindingFlags.Public |
+                BindingFlags.Static
+            );
 
             foreach (var p in properties)
             {
@@ -25,6 +27,11 @@ namespace FrontEnd.App_Start
                 if (p.PropertyType.Name.ToLower().Equals("int32"))
                 {
                     p.SetValue(typeof(Parameters), Convert.ToInt32(setting));
+                }
+
+                if (p.PropertyType.Name.ToLower().Equals("decimal"))
+                {
+                    p.SetValue(typeof(Parameters), Convert.ToDecimal(setting));
                 }
 
                 if (p.PropertyType.Name.ToLower().Equals("double"))
@@ -41,12 +48,6 @@ namespace FrontEnd.App_Start
                 {
                     p.SetValue(typeof(Parameters), setting.ToLower().Split(',').ToList());
                 }
-
-                if (p.PropertyType.Name.ToLower().Equals("decimal"))
-                {
-                    p.SetValue(typeof(Parameters), Convert.ToDecimal(setting));
-                }
-
             }
         }
     }
